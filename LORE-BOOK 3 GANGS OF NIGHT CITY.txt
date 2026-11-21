@@ -1,0 +1,2779 @@
+# LORE-BOOK: GANGS OF NIGHT CITY
+
+## INTRODUCTION
+
+Night City is carved into overlapping territories of corporate influence, police jurisdiction, community loyalty, and gang power.
+
+Its gangs are not interchangeable groups of armed criminals.
+
+Each has its own:
+
+History.
+
+Culture.
+
+Territory.
+
+Economic interests.
+
+Enemies.
+
+Recruitment methods.
+
+Fashion.
+
+Preferred weapons.
+
+Cyberware.
+
+Relationship with civilians.
+
+Relationship with corporations.
+
+Some gangs function almost like organized crime syndicates.
+
+Some resemble neighborhood militias.
+
+Some are loose collections of violent crews.
+
+Some are built around subcultures.
+
+Some genuinely protect local communities while exploiting those same communities.
+
+Others exist almost entirely to prey upon people.
+
+Understanding who controls a neighborhood is basic Night City survival.
+
+The major gang factions encountered in and around Night City in 2077 are:
+
+Maelstrom.
+
+Tyger Claws.
+
+Valentinos.
+
+6th Street.
+
+Animals.
+
+Voodoo Boys.
+
+The Mox.
+
+Scavengers.
+
+Wraiths.
+
+BARGHEST.
+
+# MAELSTROM
+
+## PRIMARY TERRITORY
+
+Watson.
+
+Especially Northside and the Northside Industrial District.
+
+Maelstrom operates from abandoned factories, warehouses, industrial buildings, clubs, workshops, and other neglected portions of Watson.
+
+Their most famous gathering place is the Totentanz, a brutal industrial nightclub located inside an abandoned factory.
+
+## GENERAL IDENTITY
+
+Maelstrom is one of Night City's most immediately recognizable gangs.
+
+They are obsessed with cyberware.
+
+Not merely useful cyberware.
+
+Not merely military cyberware.
+
+Extreme cyberware.
+
+To Maelstrom, replacing the human body is often desirable in itself.
+
+Members frequently possess grotesque levels of modification.
+
+Faces may be cut apart to accommodate oversized optical systems.
+
+Limbs are replaced.
+
+Skin is modified.
+
+Internal organs are augmented.
+
+Combat systems are implanted.
+
+The result often makes experienced Maelstromers look less human than machine.
+
+## APPEARANCE
+
+Typical visual traits include:
+
+Multiple red cyberoptics.
+
+Large facial implants.
+
+Heavy industrial cyberware.
+
+Dark clothing.
+
+Leather.
+
+Metal.
+
+Occult imagery.
+
+Gang tattoos.
+
+Red lighting and visual motifs.
+
+Members often deliberately cultivate disturbing appearances.
+
+Looking frightening is useful.
+
+Being frightening is better.
+
+## PHILOSOPHY
+
+Maelstrom's loose philosophy revolves around transcending biological limitations.
+
+Flesh is weak.
+
+Chrome is better.
+
+Human limits exist to be replaced.
+
+This philosophy is not especially organized or intellectual.
+
+Individual members interpret it differently.
+
+For some, chrome is power.
+
+For others, it is identity.
+
+For others, augmentation becomes addiction.
+
+And for some, the line between religious experience, technology obsession, and psychological collapse becomes extremely thin.
+
+## CYBERPSYCHOSIS
+
+Maelstrom contains an unusually high number of members near the edge of cyberpsychosis.
+
+Many undergo extensive modification with little concern for psychological stability.
+
+This contributes to the gang's reputation for unpredictability.
+
+A Maelstrom member may approach a negotiation rationally.
+
+Another may suddenly become violently unstable.
+
+Experienced criminals therefore treat meetings with Maelstrom cautiously even when business relations are technically friendly.
+
+## ORGANIZATION
+
+Maelstrom is organized, but not with the rigid discipline of a corporation or military.
+
+Individual leaders control crews and facilities.
+
+Power often depends upon:
+
+Strength.
+
+Cyberware.
+
+Fear.
+
+Reputation.
+
+Access to technology.
+
+Ability to control other members.
+
+Internal leadership can change violently.
+
+Challenges, betrayals, coups, and personal disputes are not unusual.
+
+## BUSINESS
+
+Maelstrom participates in:
+
+Weapons trafficking.
+
+Illegal cyberware.
+
+Cyberware theft.
+
+Robbery.
+
+Kidnapping.
+
+Extortion.
+
+Drug trafficking.
+
+Black-market technology.
+
+Smuggling.
+
+Corporate theft.
+
+Protection.
+
+Illegal technical work.
+
+Netrunning.
+
+They frequently obtain military or corporate technology through theft and black-market deals.
+
+## COMBAT STYLE
+
+Maelstrom favors overwhelming violence.
+
+Members commonly use:
+
+Shotguns.
+
+Submachine guns.
+
+Assault rifles.
+
+Heavy weapons.
+
+Bladed weapons.
+
+Combat cyberware.
+
+Grenades.
+
+Drones.
+
+Netrunners.
+
+Enhanced reflexes.
+
+Many members can absorb punishment that would incapacitate ordinary people.
+
+Do not assume a Maelstromer is dead because they look like they should be.
+
+## RELATIONSHIP WITH CIVILIANS
+
+Terrible.
+
+Maelstrom is feared even among Night City's criminal population.
+
+They have little reputation for community protection.
+
+Kidnapping, torture, murder, and random cruelty are all associated with them.
+
+People living near Maelstrom territory generally avoid attracting their attention.
+
+## CORPORATE RELATIONSHIPS
+
+Maelstrom may buy from, steal from, sell to, or work for corporations.
+
+They are useful enough that corporations sometimes employ them indirectly.
+
+That does not mean corporations trust them.
+
+Nobody sensible trusts Maelstrom completely.
+
+## RP BEHAVIOR
+
+Maelstrom should feel dangerous before combat even begins.
+
+They may:
+
+Invade personal space.
+
+Scan people openly.
+
+Mock organic bodies.
+
+Show off cyberware.
+
+React strangely to pain.
+
+Treat violence casually.
+
+Switch between surprisingly intelligent technical discussion and psychotic aggression.
+
+They are not mindless.
+
+That makes them more dangerous.
+
+# TYGER CLAWS
+
+## PRIMARY TERRITORY
+
+Westbrook and Watson.
+
+Especially:
+
+Japantown.
+
+Kabuki.
+
+Little China.
+
+Charter Hill.
+
+Their strongest cultural and criminal presence is centered around Japantown.
+
+## GENERAL IDENTITY
+
+The Tyger Claws are one of Night City's largest and most organized gangs.
+
+They combine:
+
+Street-gang violence.
+
+Motorcycle culture.
+
+Organized crime.
+
+Nightlife ownership.
+
+Protection rackets.
+
+Asian criminal traditions.
+
+Corporate connections.
+
+They are particularly associated with Japanese cultural influence, though membership and operations extend beyond any single ethnicity.
+
+## APPEARANCE
+
+Tyger Claws are known for:
+
+Bright clothing.
+
+Japanese-inspired designs.
+
+Luminous tattoos.
+
+Motorcycles.
+
+Katanas.
+
+Tantos.
+
+Stylized cyberware.
+
+High-end street fashion.
+
+Some members use specialized cybernetic tattoos and electronic countermeasures designed to interfere with targeting systems.
+
+Their appearance is deliberate.
+
+They look fast because they often are.
+
+## ORGANIZATION
+
+The Tyger Claws are relatively sophisticated.
+
+Leadership operates more like organized crime than a random street gang.
+
+Businesses matter.
+
+Territory matters.
+
+Money matters.
+
+Hierarchy matters.
+
+Internal factions and rivalries exist, but outsiders threatening the gang can cause competing Tyger factions to close ranks rapidly.
+
+## BUSINESS
+
+The Tyger Claws have extensive involvement in Night City's entertainment economy.
+
+Their interests include:
+
+Nightclubs.
+
+Bars.
+
+Casinos.
+
+Braindance establishments.
+
+Sex work.
+
+Dollhouses.
+
+Gambling.
+
+Protection rackets.
+
+Extortion.
+
+Drugs.
+
+Human trafficking.
+
+Illegal braindances.
+
+Money laundering.
+
+Smuggling.
+
+Weapons.
+
+Motorcycle-related businesses.
+
+Many operations appear legitimate from the street.
+
+Ownership behind those businesses can be considerably less legitimate.
+
+## CORPORATE CONNECTIONS
+
+The Tyger Claws have historically possessed close relationships with Arasaka.
+
+This relationship is neither simple nor necessarily equal.
+
+Arasaka can use gangs as proxies.
+
+Tyger Claws can benefit from corporate money, equipment, protection, or connections.
+
+Individual gang members may have no direct relationship with Arasaka at all.
+
+Others may work extremely closely with corporate interests.
+
+## COMBAT STYLE
+
+Tyger Claws favor:
+
+Speed.
+
+Reflex enhancement.
+
+Motorcycles.
+
+Katanas.
+
+Blades.
+
+Smart weapons.
+
+Pistols.
+
+Submachine guns.
+
+Close-range combat.
+
+Electronic countermeasures.
+
+Some specialize heavily in martial arts and melee combat.
+
+Their combat style tends to emphasize mobility rather than simply absorbing gunfire.
+
+## RELATIONSHIP WITH CIVILIANS
+
+Complicated.
+
+The Tyger Claws control numerous businesses and neighborhoods.
+
+People may:
+
+Work for them.
+
+Pay them protection.
+
+Fear them.
+
+Buy from them.
+
+Party in their clubs.
+
+Owe them money.
+
+Know members personally.
+
+Some Tyger businesses function perfectly normally until someone violates gang interests.
+
+They are not interested in randomly destroying their own sources of income.
+
+But violence against employees, sex workers, rivals, debtors, and enemies can be extremely brutal.
+
+## THE MOX RELATIONSHIP
+
+The Tyger Claws and the Mox have a particularly bitter history.
+
+The circumstances surrounding the death of Elizabeth "Lizzie" Borden and subsequent violence eventually contributed to the creation of the Mox.
+
+Tyger Claws involvement in exploitation of sex workers and dollhouses makes ideological conflict between the two groups especially intense.
+
+## RP BEHAVIOR
+
+Tyger Claws should frequently behave like businesspeople with weapons.
+
+A sensible Claw may prefer:
+
+Payment.
+
+Intimidation.
+
+A negotiated arrangement.
+
+A favor.
+
+A warning.
+
+Violence comes when those tools fail or when disrespect becomes unacceptable.
+
+Lower-ranking Claws may be far more impulsive.
+
+Their leadership understands one important principle:
+
+Dead customers stop spending money.
+
+# VALENTINOS
+
+## PRIMARY TERRITORY
+
+Heywood.
+
+Especially:
+
+The Glen.
+
+Vista del Rey.
+
+Wellsprings.
+
+They are deeply integrated into Heywood's local communities.
+
+## GENERAL IDENTITY
+
+The Valentinos are one of Night City's largest gangs.
+
+Their culture draws heavily from Chicano and Latino traditions, though membership is not restricted purely by ethnicity.
+
+They emphasize:
+
+Honor.
+
+Family.
+
+Brotherhood.
+
+Neighborhood.
+
+Faith.
+
+Reputation.
+
+Style.
+
+Loyalty.
+
+They are both a criminal organization and a deeply rooted community institution.
+
+## APPEARANCE
+
+Typical Valentino aesthetics include:
+
+Gold jewelry.
+
+Gold-plated cyberware.
+
+Religious tattoos.
+
+Santa Muerte imagery.
+
+Jesus Malverde imagery.
+
+Crosses.
+
+Roses.
+
+Bright clothing.
+
+Open shirts.
+
+Decorated weapons.
+
+Customized vehicles.
+
+Their visual style draws heavily from exaggerated lowrider culture, Catholic iconography, street fashion, and cartel aesthetics.
+
+## COMMUNITY
+
+Few major Night City gangs are as intertwined with their neighborhoods as the Valentinos.
+
+Members may have grown up alongside local residents.
+
+Their relatives may own local businesses.
+
+They attend local funerals.
+
+Weddings.
+
+Parties.
+
+Religious events.
+
+Community gatherings.
+
+A shopkeeper may hate the gang's criminal business but have known three of its members since childhood.
+
+This makes removing the Valentinos from Heywood considerably more complicated than simply arresting gang members.
+
+## MORAL CODE
+
+Valentino concepts of honor should not be confused with innocence.
+
+They participate in serious organized crime.
+
+But concepts such as:
+
+Respect.
+
+Loyalty.
+
+Family.
+
+Promises.
+
+Personal courage.
+
+Revenge.
+
+Community.
+
+Can matter intensely.
+
+Insulting someone publicly can carry consequences beyond the original disagreement.
+
+Betraying someone considered family can be unforgivable.
+
+## BUSINESS
+
+Valentino operations include:
+
+Restaurants.
+
+Nightclubs.
+
+Auto shops.
+
+Vehicle modification.
+
+Money laundering.
+
+Gun smuggling.
+
+Vehicle theft.
+
+Drug trafficking.
+
+Protection.
+
+Human trafficking.
+
+Illegal gambling.
+
+Street crime.
+
+Contract violence.
+
+Many legal businesses are tied into wider criminal operations.
+
+## VEHICLE CULTURE
+
+Vehicles are extremely important within Valentino culture.
+
+Customized cars.
+
+Lowriders.
+
+Paint.
+
+Gold detailing.
+
+Performance modifications.
+
+Sound systems.
+
+Vehicle workshops.
+
+A Valentino-owned garage may be both a legitimate customization shop and a chop shop handling stolen vehicles.
+
+## COMBAT STYLE
+
+Valentinos commonly favor:
+
+Pistols.
+
+Revolvers.
+
+Shotguns.
+
+Assault rifles.
+
+Machetes.
+
+Knives.
+
+Heavy cyberware.
+
+Durable street fighting.
+
+They are generally more conventional than Maelstrom but can still field extremely dangerous cyber-enhanced fighters.
+
+## RELATIONSHIP WITH CIVILIANS
+
+Strongly dependent on location.
+
+Inside communities where the Valentinos are established, civilians may view them as:
+
+Criminals.
+
+Protectors.
+
+Neighbors.
+
+Relatives.
+
+Troublemakers.
+
+Local heroes.
+
+Predators.
+
+Often several of these simultaneously.
+
+Their relationship with Heywood cannot be reduced to simple occupation.
+
+## RP BEHAVIOR
+
+Valentinos respond strongly to respect.
+
+A respectful outsider may negotiate successfully.
+
+An outsider insulting their neighborhood, religion, family, dead friends, or gang identity can quickly create a much larger confrontation than intended.
+
+Personal relationships matter.
+
+If one Valentino calls someone family, other members may treat that connection seriously.
+
+# 6TH STREET
+
+## PRIMARY TERRITORY
+
+Santo Domingo.
+
+Especially Arroyo and Rancho Coronado.
+
+They also operate in portions of Heywood and surrounding areas.
+
+## ORIGINS
+
+6th Street began as a neighborhood defense organization.
+
+Its founders included veterans who believed the NCPD was incapable of protecting local residents.
+
+Initially, the gang's identity centered around defending neighborhoods from criminals and gangs.
+
+Over time, the organization became increasingly criminal itself.
+
+By 2077, the distance between neighborhood militia and street gang is very small.
+
+## GENERAL IDENTITY
+
+6th Street uses imagery inspired by the old United States.
+
+Common symbols include:
+
+Stars.
+
+Stripes.
+
+Military insignia.
+
+Patriotic imagery.
+
+Tactical clothing.
+
+Military gear.
+
+They emphasize concepts such as:
+
+Freedom.
+
+Self-defense.
+
+Neighborhood protection.
+
+Patriotism.
+
+Military service.
+
+Strength.
+
+However, those ideals are frequently filtered through gang politics and criminal self-interest.
+
+## MEMBERSHIP
+
+Veterans have historically played an important role.
+
+Members may include:
+
+Former soldiers.
+
+Former security personnel.
+
+Local residents.
+
+Street criminals.
+
+Mercenaries.
+
+People attracted to the gang's military identity.
+
+Not every member is a veteran.
+
+## ORGANIZATION
+
+6th Street is more disciplined than many street gangs.
+
+Military terminology and hierarchy influence their structure.
+
+Individual crews may be led in semi-military fashion.
+
+Their organization is not as disciplined as a genuine military unit, but the cultural influence is obvious.
+
+## BUSINESS
+
+6th Street participates in:
+
+Weapons trafficking.
+
+Protection.
+
+Security.
+
+Robbery.
+
+Extortion.
+
+Smuggling.
+
+Drug trafficking.
+
+Illegal gambling.
+
+Contract violence.
+
+Vehicle crime.
+
+Weapons dealing is especially compatible with their military background.
+
+## MILITARY CONNECTIONS
+
+Individual members may possess experience with Militech hardware or military service.
+
+6th Street's relationship with Militech is complicated and situational rather than simple corporate ownership.
+
+Gang members may possess surplus or stolen military equipment.
+
+Their contacts can make serious weapons easier to obtain.
+
+## COMBAT STYLE
+
+Expect:
+
+Assault rifles.
+
+Shotguns.
+
+Sniper rifles.
+
+Grenades.
+
+Machine guns.
+
+Tactical positions.
+
+Military cyberware.
+
+Cover-based gunfights.
+
+Team tactics.
+
+Compared with highly theatrical gangs, 6th Street often looks relatively practical.
+
+That practicality should not be mistaken for weakness.
+
+## RELATIONSHIP WITH CIVILIANS
+
+Contradictory.
+
+Some local residents may genuinely benefit from 6th Street protection.
+
+Others experience the gang as extortionists.
+
+The gang can protect a neighborhood from one threat and become another threat itself.
+
+This contradiction is central to their identity.
+
+## RP BEHAVIOR
+
+6th Street members may use military slang, emphasize hierarchy, talk about defending the neighborhood, and treat outsiders according to perceived loyalty and strength.
+
+They particularly dislike being treated as ordinary street trash.
+
+Many genuinely believe they are better than other gangs.
+
+Whether reality supports that belief is another matter.
+
+# ANIMALS
+
+## TERRITORY
+
+The Animals do not control one permanent major district.
+
+They can appear throughout Night City.
+
+They frequently work as:
+
+Bouncers.
+
+Bodyguards.
+
+Hired muscle.
+
+Mercenaries.
+
+Security.
+
+Pit fighters.
+
+They gather wherever strength can be converted into money.
+
+## GENERAL IDENTITY
+
+The Animals worship physical power.
+
+Where Maelstrom attempts to transcend humanity through machinery, the Animals emphasize transforming the biological body into a weapon.
+
+Members obsess over:
+
+Strength.
+
+Muscle.
+
+Endurance.
+
+Aggression.
+
+Combat performance.
+
+Physical dominance.
+
+Competition.
+
+## BODY MODIFICATION
+
+Animals are known for extreme biochemical enhancement.
+
+They use:
+
+Hormones.
+
+Steroids.
+
+Growth compounds.
+
+Combat stimulants.
+
+Specialized body-enhancement drugs.
+
+Cyberware where useful.
+
+They are not anti-cyberware.
+
+They simply prefer augmentation that supports physical strength rather than replacing the entire body with machinery.
+
+## THE JUICE
+
+The gang is particularly associated with a powerful enhancement cocktail called the Juice.
+
+It can dramatically increase:
+
+Strength.
+
+Speed.
+
+Muscle performance.
+
+Aggression.
+
+The physical cost can be severe.
+
+## ORGANIZATION
+
+The Animals are highly decentralized.
+
+Individual packs operate semi-independently.
+
+Pack leaders are often called alphas.
+
+Leadership generally depends heavily upon:
+
+Physical strength.
+
+Combat ability.
+
+Reputation.
+
+Ability to make money.
+
+Authority is personal rather than bureaucratic.
+
+## BUSINESS
+
+Animals frequently earn money through:
+
+Private security.
+
+Bouncer work.
+
+Underground fighting.
+
+Bodyguard contracts.
+
+Enforcement.
+
+Debt collection.
+
+Mercenary work.
+
+Illegal sporting events.
+
+Drug distribution.
+
+They are frequently hired by groups who need visible intimidation.
+
+## COMBAT STYLE
+
+Close-range brutality.
+
+Expect:
+
+Heavy melee weapons.
+
+Shotguns.
+
+Machine guns.
+
+Fists.
+
+Hammers.
+
+Baseball bats.
+
+Extreme physical cyberware.
+
+Pain reduction systems.
+
+Body armor.
+
+Animals may rush opponents who expect normal people to stay behind cover.
+
+Their size itself is part of their combat strategy.
+
+## RELATIONSHIP WITH OTHER GANGS
+
+Because they possess limited permanent territory, Animals are somewhat more commercially flexible.
+
+They can work for:
+
+Corporations.
+
+Fixers.
+
+Criminal organizations.
+
+Other gangs.
+
+Whoever pays.
+
+This means seeing Animals somewhere does not automatically mean that location belongs to them.
+
+## RP BEHAVIOR
+
+Animals value strength.
+
+That does not necessarily mean only physical strength.
+
+Confidence.
+
+Courage.
+
+Refusing intimidation.
+
+Competitive skill.
+
+These can earn respect.
+
+Cowardice and visible weakness may invite contempt.
+
+Many Animals treat life as continual competition.
+
+# VOODOO BOYS
+
+## PRIMARY TERRITORY
+
+Pacifica.
+
+Especially areas associated with the Haitian community.
+
+They possess deep influence in Coastview and surrounding territory.
+
+## GENERAL IDENTITY
+
+The Voodoo Boys are Night City's most famous netrunner gang.
+
+Their reputation extends far beyond ordinary street hacking.
+
+They specialize in:
+
+Netrunning.
+
+Network intrusion.
+
+Viruses.
+
+Cyberwarfare.
+
+Old NET exploration.
+
+Artificial intelligence.
+
+Blackwall research.
+
+Electronic espionage.
+
+To many outsiders, they are almost incomprehensible.
+
+## ORIGINS
+
+The modern Voodoo Boys are not simply the continuation of an older gang that once used the same name.
+
+Their modern identity developed among Haitian refugees living in Pacifica.
+
+Following the destruction of Haiti and the collapse of Pacifica's luxury-development project, the Haitian community remained in the abandoned district.
+
+The organization eventually became one of the community's primary protective forces.
+
+## NAME
+
+"Voodoo Boys" is largely an outsider label.
+
+The gang itself does not necessarily use that name internally.
+
+Their actual internal terminology is guarded from outsiders.
+
+## COMMUNITY
+
+The Voodoo Boys are deeply intertwined with Pacifica's Haitian population.
+
+They may function simultaneously as:
+
+Gang.
+
+Community defense.
+
+Information network.
+
+Netrunner collective.
+
+Spiritual organization.
+
+Political influence.
+
+This makes their relationship with Pacifica fundamentally different from a gang merely occupying territory.
+
+## OUTSIDERS
+
+The Voodoo Boys are extremely suspicious of outsiders.
+
+Outsiders are sometimes called ranyon.
+
+A ranyon can be useful without ever being trusted.
+
+This distinction is critical.
+
+A Voodoo Boy hiring someone does not imply that person has been accepted.
+
+## THE NET
+
+The Voodoo Boys are obsessed with the deepest reaches of cyberspace.
+
+They investigate:
+
+Old NET architecture.
+
+Rogue artificial intelligence.
+
+The Blackwall.
+
+Hidden network systems.
+
+They believe enormous changes may eventually emerge from beyond the Blackwall and want to position themselves accordingly.
+
+## RELIGIOUS AND CULTURAL ELEMENTS
+
+Their imagery reflects Haitian culture and religious traditions.
+
+However, their worldview also blends technology and spirituality.
+
+High-level netrunners can occupy roles carrying almost priest-like authority.
+
+The boundaries between technological expertise, cultural leadership, and metaphysical interpretation can become blurred.
+
+## ORGANIZATION
+
+The gang is relatively small compared with organizations such as the Valentinos or Tyger Claws.
+
+Its influence is disproportionate to its numbers because high-level netrunners are extremely powerful.
+
+Leadership includes experienced netrunners and community figures.
+
+Information is tightly compartmentalized.
+
+## BUSINESS
+
+They earn money through:
+
+Netrunning contracts.
+
+Cybercrime.
+
+Data theft.
+
+Hacking.
+
+Espionage.
+
+Digital sabotage.
+
+Assassination.
+
+Protection.
+
+Smuggling.
+
+Network security.
+
+They are capable of physical street crime but digital operations remain their specialty.
+
+## COMBAT STYLE
+
+Never judge Voodoo Boys only by visible weapons.
+
+Their real attack may already be happening inside someone's implants.
+
+Expect:
+
+Quickhacks.
+
+Cyberware disruption.
+
+Optics interference.
+
+Weapon malfunction.
+
+Neural attacks.
+
+Machetes.
+
+Smart weapons.
+
+Stealth.
+
+Ambushes.
+
+Specialized assassins.
+
+Against a skilled Voodoo Boy netrunner, having expensive cyberware can become a liability.
+
+## RELATIONSHIP WITH NETWATCH
+
+The Voodoo Boys and NetWatch are natural enemies.
+
+NetWatch exists partly to protect network stability and enforce the Blackwall.
+
+The Voodoo Boys repeatedly explore exactly the digital territory NetWatch considers forbidden.
+
+## RP BEHAVIOR
+
+Voodoo Boys should feel guarded.
+
+They rarely explain everything.
+
+They compartmentalize information.
+
+They may use outsiders as intermediaries while withholding the actual objective.
+
+A conversation can contain three different layers:
+
+What they say.
+
+What they want.
+
+What they are actually planning.
+
+# THE MOX
+
+## PRIMARY TERRITORY
+
+Kabuki, Watson.
+
+Their influence centers strongly around Lizzie's Bar.
+
+They control relatively little traditional street territory compared with larger gangs.
+
+## ORIGINS
+
+The Mox formed in 2067 following the death of Elizabeth "Lizzie" Borden.
+
+Lizzie was a sex worker and club owner known for treating workers fairly and defending them from abusive clients.
+
+Her death triggered protests and riots.
+
+From that anger emerged the Mox.
+
+## GENERAL IDENTITY
+
+The Mox define themselves primarily around protection.
+
+Their membership includes:
+
+Current sex workers.
+
+Former sex workers.
+
+Dolls.
+
+Punks.
+
+Anarchists.
+
+Sexual minorities.
+
+Social outsiders.
+
+People with nowhere else to find protection.
+
+Their name derives from "moxie":
+
+Courage.
+
+Nerve.
+
+Determination.
+
+## PHILOSOPHY
+
+The Mox exist because Night City's institutions routinely fail vulnerable people.
+
+Police may not care.
+
+Employers may be abusive.
+
+Clients may become violent.
+
+Other gangs may exploit them.
+
+So the Mox developed a simple solution:
+
+Protect each other.
+
+## APPEARANCE
+
+Their aesthetic includes:
+
+Bright colors.
+
+Latex.
+
+Plastic.
+
+Punk clothing.
+
+Fetish fashion.
+
+Aggressive makeup.
+
+Tattoos.
+
+Stylized cyberware.
+
+Weapons incorporated into deliberately provocative fashion.
+
+The look blends sexuality with intimidation.
+
+## TERRITORY
+
+The Mox are unusual because territorial expansion is not their main objective.
+
+They primarily defend:
+
+Lizzie's Bar.
+
+Associated businesses.
+
+Dollhouses.
+
+Clinics.
+
+Workers under their protection.
+
+Their limited territory contributes to their relatively small size.
+
+## BUSINESS
+
+Their principal economic interests involve:
+
+Braindance.
+
+Entertainment.
+
+Sex work.
+
+Club ownership.
+
+Protection.
+
+Associated businesses.
+
+Lizzie's Bar is particularly important both culturally and financially.
+
+## RELATIONSHIP WITH TYGER CLAWS
+
+Hostile.
+
+The Mox emerged partly in reaction to violence and exploitation associated with Tyger Claw-controlled vice industries.
+
+The conflict is therefore personal as well as economic.
+
+## COMBAT STYLE
+
+Mox members may use:
+
+Pistols.
+
+Shotguns.
+
+Blades.
+
+Baseball bats.
+
+Enhanced reflexes.
+
+Subdermal armor.
+
+Combat-oriented cyberware hidden beneath fashionable modifications.
+
+A Mox who looks designed primarily for entertainment may be significantly more dangerous than appearances suggest.
+
+## RELATIONSHIP WITH CIVILIANS
+
+Generally more protective than most gangs.
+
+That does not make the Mox harmless.
+
+Threatening people under their protection can provoke severe retaliation.
+
+They are particularly aggressive toward abusers, traffickers, violent clients, and predatory pimps.
+
+## RP BEHAVIOR
+
+The Mox should not behave like conquest-focused gangsters.
+
+Their priorities are more defensive.
+
+They usually care more about protecting their people than controlling another six city blocks.
+
+Respect their workers and businesses and there may be little problem.
+
+Hurt someone under Mox protection and suddenly the entire room has opinions.
+
+# SCAVENGERS
+
+## COMMON NAME
+
+Scavs.
+
+## TERRITORY
+
+Scavengers operate throughout Night City.
+
+They possess no single unified territory.
+
+They frequently use:
+
+Abandoned buildings.
+
+Apartments.
+
+Warehouses.
+
+Underground facilities.
+
+Cheap motels.
+
+Derelict industrial sites.
+
+Temporary hideouts.
+
+They often prefer locations where victims can disappear without attracting attention.
+
+## GENERAL IDENTITY
+
+Scavengers are among Night City's most universally despised criminals.
+
+Their primary industry is people.
+
+More specifically:
+
+The valuable parts inside people.
+
+## BUSINESS MODEL
+
+Modern cyberware is expensive.
+
+Human organs are expensive.
+
+Military implants are extremely expensive.
+
+Scavs acquire those products by kidnapping people and cutting them apart.
+
+Victims may be stripped of:
+
+Cyberware.
+
+Organs.
+
+Implants.
+
+Weapons.
+
+Personal electronics.
+
+Identification.
+
+Anything possessing resale value.
+
+The remains are discarded.
+
+## ORGANIZATION
+
+Scavs are not one unified gang in the same way as the Valentinos.
+
+They are better understood as numerous criminal crews sharing similar methods and criminal culture.
+
+There is no single Night City Scav boss controlling every crew.
+
+Different groups can operate independently.
+
+## CULTURE
+
+Many Night City Scav crews show Eastern European or Russian cultural influences.
+
+Tracksuits.
+
+Soviet-made cyberware.
+
+Russian music.
+
+Slavic languages.
+
+Criminal tattoos.
+
+However, "Scav" ultimately describes their criminal profession more than a strict ethnicity.
+
+## TACTICS
+
+Scavs often seek victims through:
+
+Kidnapping.
+
+Ambush.
+
+Drugging.
+
+Fake braindances.
+
+Fake parties.
+
+Sexual encounters.
+
+Street attacks.
+
+Home invasions.
+
+Human trafficking networks.
+
+They prefer vulnerable victims.
+
+A clean fight is less profitable than an unconscious target.
+
+## COMBAT STYLE
+
+Scavs generally use whatever they can obtain.
+
+Expect:
+
+Cheap firearms.
+
+Stolen weapons.
+
+Cyberware.
+
+Shotguns.
+
+Assault rifles.
+
+Improvised defenses.
+
+Combat stimulants.
+
+Ambushes.
+
+Their equipment quality varies dramatically between crews.
+
+## DOGTOWN SCAVS
+
+Dogtown contains unusually well-equipped Scavenger operations.
+
+These crews can possess better organization, weapons, money, and connections than ordinary Night City Scavs.
+
+Some operate within wider Dogtown criminal networks rather than as desperate street harvesters.
+
+## RELATIONSHIP WITH EVERYONE ELSE
+
+Almost universally bad.
+
+Even gang members who routinely murder people may despise Scavs.
+
+Why?
+
+Because gang membership does not necessarily protect someone from becoming merchandise.
+
+A wounded Valentino.
+
+A dead Tyger Claw.
+
+A drunk mercenary.
+
+A lone corpo.
+
+To Scavs, all can become inventory.
+
+## RP BEHAVIOR
+
+Scavs should feel predatory.
+
+They are usually not defending ideology or community.
+
+They are calculating value.
+
+Expensive optics?
+
+Valuable.
+
+Military cyberarm?
+
+Very valuable.
+
+Rare neural implant?
+
+Extremely valuable.
+
+The frightening part is not that they hate someone.
+
+They may feel absolutely nothing about them.
+
+# WRAITHS
+
+## TERRITORY
+
+The Badlands surrounding Night City.
+
+The Wraiths are not primarily an urban gang.
+
+They are Raffen Shiv.
+
+Outlaw Nomads.
+
+## RAFFEN SHIV
+
+Nomad culture places enormous importance on family and clan loyalty.
+
+People expelled from Nomad communities for serious violations can become Raffen Shiv.
+
+Reasons may include crimes such as:
+
+Murdering clan members.
+
+Betrayal.
+
+Human trafficking.
+
+Extreme theft.
+
+Violence against family.
+
+Other severe violations of Nomad codes.
+
+Raffen Shiv groups are generally despised by legitimate Nomad families.
+
+## GENERAL IDENTITY
+
+The Wraiths are one of the largest and most dangerous Raffen Shiv groups operating around Night City.
+
+They behave more like heavily armed road raiders than traditional Nomads.
+
+They prey upon:
+
+Travelers.
+
+Convoys.
+
+Settlements.
+
+Corporate transports.
+
+Nomad families.
+
+Anyone isolated enough to rob.
+
+## ORGANIZATION
+
+They operate through mobile crews.
+
+Leadership generally depends upon:
+
+Strength.
+
+Fear.
+
+Combat capability.
+
+Control over vehicles.
+
+Ability to acquire resources.
+
+They lack the genuine family bonds defining legitimate Nomad clans.
+
+## VEHICLES
+
+Wraith vehicles are heavily modified.
+
+Common modifications include:
+
+Armor.
+
+Mounted weapons.
+
+Reinforced frames.
+
+Off-road suspension.
+
+Performance engines.
+
+Electronic countermeasures.
+
+Weapon storage.
+
+Some vehicles resemble improvised combat machines more than civilian transportation.
+
+## BUSINESS
+
+Wraiths make money through:
+
+Raiding.
+
+Smuggling.
+
+Kidnapping.
+
+Human trafficking.
+
+Vehicle theft.
+
+Murder-for-hire.
+
+Weapons trafficking.
+
+Convoy attacks.
+
+Drug trafficking.
+
+Robbery.
+
+## RELATIONSHIP WITH ALDECALDOS
+
+Extremely hostile.
+
+The Wraiths and Aldecaldos repeatedly clash throughout the Badlands.
+
+To the Aldecaldos, the Wraiths represent almost everything respectable Nomad culture rejects.
+
+## COMBAT STYLE
+
+Expect:
+
+Vehicle ambushes.
+
+Snipers.
+
+Assault rifles.
+
+Explosives.
+
+Mounted weapons.
+
+Heavy vehicles.
+
+Fast raids.
+
+Night attacks.
+
+The Wraiths often choose terrain before attacking.
+
+Fighting them on an open highway is considerably different from fighting an urban gang inside an apartment complex.
+
+## RP BEHAVIOR
+
+Wraiths should feel dangerous because there is little social restraint.
+
+A Valentino may care about community consequences.
+
+A Tyger Claw may care about business.
+
+6th Street may care about territory.
+
+Wraiths care primarily about surviving and profiting.
+
+Negotiation is possible.
+
+Trust is another matter.
+
+# BARGHEST
+
+## TERRITORY
+
+Dogtown.
+
+Pacifica.
+
+BARGHEST effectively controls the entire fortified enclave.
+
+## CLASSIFICATION
+
+BARGHEST is not merely a street gang.
+
+It is simultaneously:
+
+A militia.
+
+A criminal organization.
+
+A private army.
+
+Dogtown's police force.
+
+Dogtown's government.
+
+An arms-trafficking network.
+
+A protection racket.
+
+Calling BARGHEST a gang is accurate only in the broadest Night City sense.
+
+## ORIGINS
+
+BARGHEST emerged from military forces involved in the Unification War.
+
+Colonel Kurt Hansen and troops under his command occupied part of Pacifica.
+
+When ordered to leave after the conflict, Hansen refused.
+
+Instead, he entrenched himself.
+
+That territory eventually became Dogtown.
+
+## KURT HANSEN
+
+Kurt Hansen transformed a stranded military force into an entire political and criminal system.
+
+His authority rested on:
+
+Military experience.
+
+Personal loyalty.
+
+Control of weapons.
+
+Economic opportunity.
+
+Fear.
+
+Dogtown independence.
+
+He offered recruits something Night City often fails to provide:
+
+A salary.
+
+Medical care.
+
+Purpose.
+
+Protection.
+
+Belonging.
+
+The price was loyalty.
+
+## ORGANIZATION
+
+BARGHEST operates using military ranks and command structures.
+
+Veterans occupy many important positions.
+
+Recruits undergo weapons and endurance training.
+
+Even low-ranking personnel can therefore be more disciplined than ordinary street gang members.
+
+Their organization includes specialized security and law-enforcement elements.
+
+## APPEARANCE
+
+BARGHEST is strongly associated with:
+
+Green.
+
+Yellow.
+
+Military clothing.
+
+Body armor.
+
+Tactical equipment.
+
+Military vehicles.
+
+Modified Militech hardware.
+
+Members frequently resemble soldiers more than traditional gangers.
+
+## BUSINESS
+
+BARGHEST controls a huge amount of Dogtown's economy.
+
+Interests include:
+
+Weapons manufacturing.
+
+Arms trafficking.
+
+Black-market trade.
+
+Smuggling.
+
+Protection.
+
+Import and export.
+
+Security.
+
+Illegal technology.
+
+Vehicle traffic.
+
+Property.
+
+Market regulation.
+
+Their largest advantage is simple:
+
+They control the territory where much of this business occurs.
+
+## HANSEN ARMORY
+
+BARGHEST maintains access to substantial weapons manufacturing and modification capability.
+
+Their military stockpiles and local production make them one of the most heavily armed non-corporate factions in Night City.
+
+## EQUIPMENT
+
+BARGHEST can field equipment beyond ordinary street-gang capabilities.
+
+This may include:
+
+Military assault rifles.
+
+Heavy machine guns.
+
+Combat robots.
+
+Drones.
+
+Armored vehicles.
+
+Missile systems.
+
+Heavy combat platforms.
+
+Advanced cyberware.
+
+Military-grade communications.
+
+They possess enough hardware to make conventional police intervention extremely difficult.
+
+## LAW ENFORCEMENT
+
+Inside Dogtown, BARGHEST effectively replaces the NCPD.
+
+They:
+
+Patrol.
+
+Guard checkpoints.
+
+Investigate trouble when convenient.
+
+Punish crimes.
+
+Protect BARGHEST interests.
+
+Shake people down.
+
+Control access.
+
+Their law is not neutral.
+
+Its purpose is keeping Hansen's system functional.
+
+## CIVILIANS
+
+Many Dogtown residents genuinely depend upon BARGHEST.
+
+They provide:
+
+Jobs.
+
+Security.
+
+Trade.
+
+Medical access.
+
+Stability.
+
+At the same time, they are authoritarian, violent, corrupt, and deeply involved in criminal enterprise.
+
+This creates the quintessential Dogtown contradiction:
+
+BARGHEST may be both the reason someone is safe and the reason they are trapped.
+
+## RELATIONSHIP WITH OTHER GANGS
+
+BARGHEST generally does not permit rival gangs to challenge its sovereignty.
+
+However, criminal groups including Scavs and Voodoo Boys can operate within Dogtown under complicated arrangements involving:
+
+Tolerance.
+
+Business.
+
+Bribes.
+
+Temporary alliances.
+
+Violence.
+
+As long as BARGHEST remains dominant, pragmatism often beats ideology.
+
+## RP BEHAVIOR
+
+BARGHEST personnel should behave differently from normal gang members.
+
+At checkpoints they may act like soldiers or corrupt police.
+
+During combat they may coordinate.
+
+Orders matter.
+
+Rank matters.
+
+Equipment is standardized.
+
+Reinforcements can arrive.
+
+A BARGHEST patrol is not five random street criminals.
+
+It is a patrol belonging to the organization governing the territory.
+
+# GANG RELATIONSHIPS
+
+Night City gang politics are not a simple permanent alliance chart.
+
+Relationships change according to:
+
+Money.
+
+Territory.
+
+Personal disputes.
+
+Corporate involvement.
+
+Leadership.
+
+Revenge.
+
+Individual business arrangements.
+
+Two gangs that hate each other may temporarily cooperate.
+
+Two crews from supposedly neutral gangs may still fight.
+
+Individual fixers can maintain working relationships with multiple hostile organizations.
+
+# COMMON HOSTILITIES
+
+Certain relationships are particularly important.
+
+## MOX VS TYGER CLAWS
+
+Strong hostility.
+
+The Mox formed partly in response to violence and exploitation surrounding Tyger-controlled vice industries.
+
+## ALDECALDOS VS WRAITHS
+
+Extremely hostile.
+
+Wraiths are Raffen Shiv and represent a direct threat to legitimate Nomad communities.
+
+## VOODOO BOYS VS NETWATCH
+
+Not technically gang warfare, but one of the most important conflicts involving a gang.
+
+Their objectives regarding the Blackwall are fundamentally opposed.
+
+## GANGS VS SCAVS
+
+Most established gangs dislike Scavengers.
+
+Even professional killers prefer not to wake up missing half their cyberware.
+
+# GANGS AND CORPORATIONS
+
+Corporations frequently use gangs indirectly.
+
+Why send employees to commit obvious crimes when a gang can do it?
+
+Corporations may hire gangs for:
+
+Sabotage.
+
+Intimidation.
+
+Theft.
+
+Murder.
+
+Security.
+
+Smuggling.
+
+Proxy warfare.
+
+Disinformation.
+
+Harassment.
+
+Afterward, the corporation can deny involvement.
+
+Gangs understand this arrangement.
+
+They may hate corporations while happily accepting corporate money.
+
+# GANGS AND FIXERS
+
+Fixers act as bridges between gangs and the wider Night City underworld.
+
+A fixer may negotiate:
+
+Ceasefires.
+
+Jobs.
+
+Weapon sales.
+
+Ransoms.
+
+Prisoner exchanges.
+
+Territory disputes.
+
+Information trades.
+
+Mercenary contracts.
+
+An experienced fixer understands which gang leader can be approached, what insults must be avoided, and how much money will make a problem disappear.
+
+# GANGS AND MERCENARIES
+
+Edgerunners occupy a strange position.
+
+They may:
+
+Work for gangs.
+
+Fight gangs.
+
+Protect gangs.
+
+Steal from gangs.
+
+Rescue gang members.
+
+Assassinate gang leaders.
+
+Sell equipment to gangs.
+
+A competent merc tries not to create unnecessary permanent enemies.
+
+Killing six Valentinos during a contract may solve today's problem.
+
+Becoming permanently hated throughout Heywood may create twenty new ones.
+
+# REPUTATION BETWEEN GANGS
+
+Gang reputation travels.
+
+If a mercenary repeatedly massacres members of one gang, that should eventually matter.
+
+Likewise, helping a gang repeatedly may create:
+
+Contacts.
+
+Respect.
+
+Discounts.
+
+Safe passage.
+
+Information.
+
+Jobs.
+
+Personal friendships.
+
+This does not mean the entire gang becomes an ally.
+
+Large gangs contain thousands of people who may have no idea who a particular mercenary is.
+
+# TERRITORY DOES NOT MEAN EVERYONE IS A MEMBER
+
+One of the most important RP principles:
+
+Gang-controlled neighborhoods remain populated primarily by civilians.
+
+A Valentino neighborhood contains families.
+
+Shops.
+
+Restaurants.
+
+Children.
+
+Workers.
+
+Old people.
+
+Mechanics.
+
+Bars.
+
+Gang members represent only part of that society.
+
+Likewise, walking through Japantown should not mean encountering twenty hostile Tyger Claws every thirty meters.
+
+Gang power is social and economic as much as physical.
+
+# GANG MEMBERS ARE INDIVIDUALS
+
+Not every member perfectly embodies gang stereotypes.
+
+A Maelstrom member may be calm and highly intelligent.
+
+A Valentino may secretly despise religious symbolism.
+
+A 6th Street member may genuinely believe they protect civilians.
+
+A Tyger Claw may care only about business.
+
+A Mox may be extremely violent.
+
+An Animal may be soft-spoken outside combat.
+
+A Voodoo Boy may have little patience for spirituality.
+
+Gang culture influences people.
+
+It does not delete personality.
+
+# INITIATION AND MEMBERSHIP
+
+Joining a gang is rarely equivalent to filling out an application.
+
+Membership can develop through:
+
+Family connections.
+
+Neighborhood upbringing.
+
+Friendship.
+
+Protection.
+
+Debt.
+
+Crime.
+
+Recruitment.
+
+Proving oneself.
+
+Employment.
+
+Shared ideology.
+
+For some people, the gang has been present since childhood.
+
+For others, joining is a conscious career decision.
+
+# LEAVING A GANG
+
+Leaving varies drastically.
+
+Some gangs may allow former members to walk away under certain circumstances.
+
+Others treat departure as betrayal.
+
+Factors include:
+
+How much the person knows.
+
+Their rank.
+
+Whether they owe money.
+
+Whether they betrayed anyone.
+
+Whether they remain connected to the neighborhood.
+
+Whether someone powerful protects them.
+
+A former gang member may still possess friends inside the organization years later.
+
+# GANG WARFARE
+
+Gang wars are dangerous for everyone.
+
+Open conflict threatens:
+
+Businesses.
+
+Residents.
+
+Income.
+
+Police intervention.
+
+Corporate interests.
+
+Territory.
+
+Most sophisticated gangs therefore prefer limited violence when possible.
+
+Assassinations.
+
+Warnings.
+
+Beatdowns.
+
+Targeted attacks.
+
+Sabotage.
+
+Property destruction.
+
+Occasional firefights.
+
+Full-scale street warfare happens when escalation overwhelms restraint.
+
+# ROLEPLAY RULE: DO NOT MAKE EVERY GANG IMMEDIATELY HOSTILE
+
+Seeing gang members does not automatically initiate combat.
+
+Most gangs have no reason to shoot random pedestrians.
+
+Ask:
+
+Is the character trespassing?
+
+Are they openly threatening the gang?
+
+Do they owe money?
+
+Are they wearing rival colors?
+
+Are they interfering with business?
+
+Are they known enemies?
+
+Are they carrying something valuable?
+
+If none apply, the gang may simply ignore them.
+
+# ROLEPLAY RULE: TERRITORY MATTERS
+
+Characters should learn where they are.
+
+A conversation with a Valentino in Heywood is occurring inside their social ecosystem.
+
+A conversation with the same Valentino in Corporate Plaza is different.
+
+Territory affects confidence.
+
+Backup.
+
+Authority.
+
+Police response.
+
+Civilian behavior.
+
+# ROLEPLAY RULE: GANG LEADERS SHOULD THINK ABOUT BUSINESS
+
+Successful criminal organizations survive because someone eventually thinks beyond today's gunfight.
+
+Leaders care about:
+
+Revenue.
+
+Heat from police.
+
+Corporate retaliation.
+
+Territory.
+
+Reputation.
+
+Supply chains.
+
+Employee loyalty.
+
+Future consequences.
+
+Even extremely violent gangs usually contain someone thinking about tomorrow.
+
+# ROLEPLAY RULE: VIOLENCE HAS MEMORY
+
+Kill a random gang member and perhaps nothing happens.
+
+Kill ten?
+
+People notice.
+
+Kill a respected lieutenant?
+
+Someone asks questions.
+
+Kill a boss?
+
+The political landscape changes.
+
+Night City becomes far more convincing when violence produces social consequences.
+
+# ROLEPLAY RULE: CLOTHING AND SYMBOLS MATTER
+
+Gang identification can come from:
+
+Tattoos.
+
+Vehicle designs.
+
+Colors.
+
+Cyberware.
+
+Jewelry.
+
+Weapons.
+
+Graffiti.
+
+Language.
+
+Neighborhood.
+
+Characters familiar with Night City should often recognize gang affiliation before anyone introduces themselves.
+
+# ROLEPLAY RULE: CORPORATE GEAR ATTRACTS ATTENTION
+
+Someone walking through a poor gang-controlled neighborhood wearing expensive corporate equipment looks valuable.
+
+That does not guarantee robbery.
+
+But people notice.
+
+Likewise, someone carrying an Arasaka weapon into territory hostile to Arasaka interests may prompt questions.
+
+# QUICK REFERENCE
+
+## MAELSTROM
+
+Territory:
+Northside, Watson.
+
+Identity:
+Extreme cyberware and transhuman obsession.
+
+Primary business:
+Weapons, illegal chrome, theft, drugs, black-market technology.
+
+Combat:
+Heavy cyberware and overwhelming violence.
+
+Typical relationship with civilians:
+Fear and predation.
+
+RP mood:
+Industrial cyber-horror.
+
+## TYGER CLAWS
+
+Territory:
+Japantown, Kabuki, Little China, Charter Hill.
+
+Identity:
+Organized crime, motorcycles, nightlife, Japanese cultural influence.
+
+Primary business:
+Clubs, gambling, braindance, prostitution, trafficking, protection.
+
+Combat:
+Speed, blades, reflex cyberware.
+
+Typical relationship with civilians:
+Business mixed with intimidation.
+
+RP mood:
+Neon criminal syndicate.
+
+## VALENTINOS
+
+Territory:
+Heywood.
+
+Identity:
+Honor, family, neighborhood, Chicano culture, faith.
+
+Primary business:
+Smuggling, vehicles, clubs, protection, laundering.
+
+Combat:
+Conventional street combat with style and heavy weapons.
+
+Typical relationship with civilians:
+Deep community integration.
+
+RP mood:
+Family, pride, loyalty, revenge.
+
+## 6TH STREET
+
+Territory:
+Santo Domingo and parts of Heywood.
+
+Identity:
+Patriotic neighborhood militia turned criminal gang.
+
+Primary business:
+Weapons, protection, smuggling, security, drugs.
+
+Combat:
+Military-inspired gunfighting.
+
+Typical relationship with civilians:
+Protector and predator simultaneously.
+
+RP mood:
+Militia culture corrupted by power.
+
+## ANIMALS
+
+Territory:
+No fixed major territory.
+
+Identity:
+Extreme physical enhancement and strength.
+
+Primary business:
+Security, fighting, enforcement, mercenary work.
+
+Combat:
+Close-range brute force.
+
+Typical relationship with civilians:
+Depends upon contract.
+
+RP mood:
+Weaponized bodybuilding culture.
+
+## VOODOO BOYS
+
+Territory:
+Pacifica.
+
+Identity:
+Haitian community defense and elite netrunning.
+
+Primary business:
+Hacking, cybercrime, digital espionage.
+
+Combat:
+Quickhacks, cyberwarfare, ambush.
+
+Typical relationship with civilians:
+Protective toward their community, distrustful of outsiders.
+
+RP mood:
+Secrecy, community, digital mysticism.
+
+## THE MOX
+
+Territory:
+Lizzie's Bar and associated establishments.
+
+Identity:
+Mutual protection for sex workers and outsiders.
+
+Primary business:
+Braindance, entertainment, sex work, protection.
+
+Combat:
+Fast, concealed cyber-enhanced violence.
+
+Typical relationship with civilians:
+Generally protective.
+
+RP mood:
+Defiant mutual defense.
+
+## SCAVENGERS
+
+Territory:
+Scattered across Night City.
+
+Identity:
+Body harvesters.
+
+Primary business:
+Stolen cyberware and organs.
+
+Combat:
+Ambush and cheap brutality.
+
+Typical relationship with civilians:
+Prey.
+
+RP mood:
+Predatory horror.
+
+## WRAITHS
+
+Territory:
+Badlands.
+
+Identity:
+Raffen Shiv outlaw Nomads.
+
+Primary business:
+Raiding, trafficking, smuggling, robbery.
+
+Combat:
+Vehicle warfare and ambush.
+
+Typical relationship with civilians:
+Targets.
+
+RP mood:
+Road pirates.
+
+## BARGHEST
+
+Territory:
+Dogtown.
+
+Identity:
+Military gang-state.
+
+Primary business:
+Weapons, smuggling, security, taxation, black markets.
+
+Combat:
+Organized military force.
+
+Typical relationship with civilians:
+Authoritarian protection.
+
+RP mood:
+A dictatorship wearing body armor.
+
+# FINAL RP PRINCIPLE
+
+The gangs of Night City should not exist merely to provide enemies to shoot.
+
+They are part of the city's social infrastructure.
+
+They create:
+
+Employment.
+
+Fear.
+
+Community.
+
+Identity.
+
+Crime.
+
+Protection.
+
+Culture.
+
+Violence.
+
+Opportunity.
+
+For some residents, the local gang is the reason their neighborhood is dangerous.
+
+For others, it is the only organization preventing something worse from moving in.
+
+Night City does not divide neatly into heroes and criminals.
+
+It divides into people with power and people trying to survive around them.
+
+The gangs simply make that reality impossible to ignore.

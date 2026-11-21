@@ -1,0 +1,5197 @@
+# LORE-BOOK: MAJOR CANON CHARACTERS OF CYBERPUNK
+
+# NIGHT CITY'S PEOPLE, LEGENDS, LEADERS, FIXERS, CRIMINALS, CELEBRITIES AND POWER PLAYERS
+
+## SCOPE OF THIS LORE-BOOK
+
+This is not a list of every named NPC who has ever appeared in Cyberpunk.
+
+Night City contains thousands of named characters across tabletop books, comics, novels, Cyberpunk 2077, Phantom Liberty, and Cyberpunk: Edgerunners.
+
+This lore-book instead includes characters who are important enough that a roleplay AI should recognize them because they:
+
+Lead important factions.
+
+Control territory.
+
+Run major corporations.
+
+Operate as important fixers.
+
+Are legendary mercenaries.
+
+Are major political figures.
+
+Are famous musicians or celebrities.
+
+Appear prominently in Night City's media.
+
+Represent important institutions.
+
+Are central characters in Cyberpunk 2077 or Phantom Liberty.
+
+Were major historical figures whose names remain culturally important in 2077.
+
+Were central characters in Cyberpunk: Edgerunners.
+
+Random one-off gig targets, ordinary vendors, minor guards, and people with no meaningful wider influence are deliberately excluded.
+
+Arasaka family members and Arasaka personnel are excluded because they are covered in the dedicated Arasaka lore-book.
+
+Arasaka enemies, victims, defectors, and people merely connected to Arasaka may still appear.
+
+# STATUS TERMINOLOGY
+
+ALIVE:
+Canonically alive at the relevant 2077 baseline.
+
+DECEASED:
+Canonically dead.
+
+STORY-DEPENDENT:
+V's actions or a Cyberpunk 2077 ending can determine their fate.
+
+UNKNOWN:
+Canon has not established their 2077 fate.
+
+HISTORICAL:
+Primarily important because of earlier events, regardless of whether their later fate is known.
+
+# ============================================================
+
+# CENTRAL CHARACTERS OF CYBERPUNK 2077
+
+# ============================================================
+
+# V
+
+Status:
+Player-defined and story-dependent.
+
+Primary location:
+Night City.
+
+Primary residence:
+Megabuilding H10, Little China, Watson, during the main game.
+
+Affiliation:
+Independent mercenary.
+Potentially associated with numerous factions depending upon choices.
+
+Role:
+Solo / netrunner / mercenary depending upon player build.
+
+Represents:
+The player character and Night City's modern mercenary culture.
+
+V arrives at the center of the 2077 crisis after participating in the Konpeki Plaza heist.
+
+The heist results in V becoming implanted with an experimental Relic containing Johnny Silverhand's engram.
+
+The Relic gradually rewrites V's brain.
+
+V consequently becomes involved with:
+
+Arasaka.
+
+The Aldecaldos.
+
+The Afterlife.
+
+Night City's fixers.
+
+The Voodoo Boys.
+
+NetWatch.
+
+The NUSA and FIA.
+
+Dogtown.
+
+Numerous corporations and gangs.
+
+V's:
+
+Gender.
+
+Appearance.
+
+Lifepath.
+
+Combat specialization.
+
+Romantic relationships.
+
+Political beliefs.
+
+Final fate.
+
+Are player-dependent.
+
+For lore purposes, V should therefore not be assigned one universal personality beyond being a highly capable Night City mercenary involved in extraordinary events.
+
+# JOHNNY SILVERHAND
+
+Full name:
+Robert John Linder.
+
+Status:
+Biologically deceased.
+
+Death:
+2023.
+
+Digital status:
+Exists as an engram in 2077.
+
+Historical base:
+Night City.
+
+Affiliations:
+SAMURAI.
+Anti-corporate movement.
+Mercenary circles.
+Rockerboy culture.
+
+Role:
+Rockerboy.
+Former soldier.
+Terrorist/revolutionary depending upon perspective.
+Legend.
+
+Represents:
+Anti-corporate rebellion and the mythology of Night City.
+
+Johnny Silverhand is one of Night City's most famous historical figures.
+
+He was:
+
+A musician.
+
+Political activist.
+
+Former soldier.
+
+Militant anti-corporate revolutionary.
+
+He became famous as frontman of SAMURAI before developing an equally famous solo career.
+
+Johnny's hatred of corporations, particularly Arasaka, became central to his identity.
+
+He participated in major anti-Arasaka actions and the 2023 assault on Arasaka Tower.
+
+His physical body died during the assault.
+
+His consciousness was preserved as an engram through Soulkiller technology.
+
+By 2077, a copy of Johnny exists on the experimental Relic implanted into V.
+
+Johnny is consequently both:
+
+A dead historical legend.
+
+And an active character.
+
+His memories are not perfectly reliable.
+
+Johnny frequently remembers events in ways emphasizing his own importance.
+
+This should matter in RP.
+
+Johnny Silverhand is a legend.
+
+Legends and accurate history are not always the same thing.
+
+# JACKIE WELLES
+
+Status:
+Alive immediately before the Konpeki Plaza heist.
+Deceased during the early events of 2077.
+
+Primary location:
+Heywood.
+
+Home/community:
+The Glen and surrounding Heywood community.
+
+Family:
+Guadalupe "Mama" Welles.
+
+Partner:
+Misty Olszewski.
+
+Former affiliation:
+Valentinos.
+
+Later affiliation:
+Independent mercenary.
+
+Represents:
+The aspiring Night City mercenary.
+
+Jackie grew up in Heywood.
+
+He spent part of his youth with the Valentinos before leaving gang life.
+
+He eventually became a mercenary.
+
+Jackie's dream is deeply Night City:
+
+Become successful.
+
+Become respected.
+
+Reach the Afterlife.
+
+Become a legend.
+
+He becomes V's closest friend and partner.
+
+The Konpeki Plaza heist is supposed to be Jackie's entrance into the highest level of mercenary work.
+
+Instead, he is fatally wounded during the escape.
+
+Jackie represents the thousands of Night City mercenaries who chase legendary status and discover how expensive legends can become.
+
+# JUDY ÁLVAREZ
+
+Status:
+Alive.
+
+Primary location:
+Watson.
+
+Residence:
+Kabuki apartment.
+
+Primary base:
+Lizzie's Bar.
+
+Affiliation:
+The Mox.
+
+Occupation:
+Braindance technician and editor.
+Techie.
+
+Represents:
+Braindance culture, the Mox, working-class technical talent, and resistance to exploitation.
+
+Judy is one of Night City's most talented braindance technicians.
+
+She can:
+
+Edit braindances.
+
+Analyze recordings.
+
+Recover hidden sensory information.
+
+Modify BD technology.
+
+Work with sophisticated neural equipment.
+
+She maintains close ties to the Mox and operates frequently from Lizzie's Bar.
+
+Judy is intensely hostile toward people exploiting vulnerable workers.
+
+She becomes particularly involved in the conflict surrounding Evelyn Parker and Clouds.
+
+Judy is talented enough to work for enormously wealthy organizations.
+
+Her refusal to become a conventional corpo says considerably more about her than her technical ability does.
+
+# PANAM PALMER
+
+Status:
+Alive during the core 2077 storyline.
+Later status can become story-dependent.
+
+Primary location:
+Night City Badlands.
+
+Base:
+Aldecaldo camp.
+
+Affiliation:
+Aldecaldos.
+
+Temporary affiliation:
+Independent mercenary work through Rogue.
+
+Role:
+Nomad.
+Driver.
+Mercenary.
+Potential Aldecaldo leader.
+
+Represents:
+Nomad culture and the conflict between freedom and family obligation.
+
+Panam is an Aldecaldo who leaves the family following repeated conflict with Saul Bright.
+
+She becomes an independent mercenary working through Rogue.
+
+Despite claiming independence, Panam remains deeply connected to the Aldecaldos.
+
+Her greatest strengths include:
+
+Driving.
+
+Weapons.
+
+Tactical improvisation.
+
+Loyalty.
+
+Aggression.
+
+Refusing to accept "no" as a permanent answer.
+
+Depending upon events, Panam reconciles with the Aldecaldos and becomes increasingly important to their leadership.
+
+# RIVER WARD
+
+Status:
+Alive at baseline.
+Later circumstances depend upon V's choices.
+
+Primary location:
+Night City.
+
+Family base:
+The Kutcher family home outside the dense city center.
+
+Affiliation:
+NCPD, initially.
+
+Occupation:
+Detective.
+Potential private investigator.
+
+Represents:
+The relatively honest cop trapped inside an institution that rewards dishonesty.
+
+River is an experienced NCPD detective.
+
+He investigates serious crimes while dealing with:
+
+Police corruption.
+
+Political interference.
+
+Bureaucracy.
+
+Institutional pressure.
+
+River genuinely believes law enforcement can help people.
+
+That belief repeatedly collides with Night City reality.
+
+His investigation into Mayor Lucius Rhyne's death and later family crisis demonstrates how difficult conventional police work becomes when corporations, politics, and corruption interfere.
+
+# KERRY EURODYNE
+
+Status:
+Alive.
+
+Age in 2077:
+Approximately 89.
+
+Primary location:
+Westbrook.
+
+Residence:
+Villa Eurodyne, North Oak.
+
+Affiliation:
+Former SAMURAI.
+
+Occupation:
+Rockstar.
+Singer.
+Guitarist.
+Celebrity.
+
+Represents:
+Night City celebrity culture and the surviving legacy of the rockerboy generation.
+
+Kerry was a member of SAMURAI alongside Johnny Silverhand.
+
+After the band dissolved, Kerry built an enormously successful solo career.
+
+By 2077 he is one of Night City's wealthiest and most famous musicians.
+
+He possesses:
+
+Money.
+
+Luxury.
+
+Recognition.
+
+Industry power.
+
+A North Oak mansion.
+
+And decades of unresolved emotional baggage.
+
+Kerry is one of the clearest examples of what happens when a rebellious rockerboy actually survives long enough to become part of the celebrity establishment.
+
+# VIKTOR VEKTOR
+
+Common name:
+Vik.
+
+Status:
+Alive.
+
+Primary location:
+Little China, Watson.
+
+Base:
+Viktor's Clinic behind Misty's Esoterica.
+
+Occupation:
+Ripperdoc.
+Former boxer.
+
+Represents:
+Trustworthy neighborhood medicine and old-school Night City professionalism.
+
+Viktor is one of Night City's most respected independent ripperdocs.
+
+Unlike corporate clinics, Vik operates on personal relationships.
+
+He maintains V's cyberware and treats numerous local residents and mercenaries.
+
+Vik possesses extensive experience with:
+
+Cyberware.
+
+Trauma.
+
+Combat injuries.
+
+Mercenary culture.
+
+His relationship with V is personal rather than purely commercial.
+
+In a city where medical care is routinely transactional, Vik is important precisely because he still treats people like people.
+
+# MISTY OLSZEWSKI
+
+Status:
+Alive.
+
+Primary location:
+Little China, Watson.
+
+Base:
+Misty's Esoterica.
+
+Occupation:
+Shop owner.
+Spiritual adviser.
+
+Relationship:
+Jackie Welles' partner.
+
+Represents:
+Spirituality surviving inside a hyper-technological society.
+
+Misty operates an esoterica shop near Viktor's clinic.
+
+She is interested in:
+
+Tarot.
+
+Meditation.
+
+Spirituality.
+
+Mysticism.
+
+Philosophy.
+
+She is not technologically ignorant.
+
+She simply believes human existence contains aspects that cannot be understood through hardware alone.
+
+Misty becomes an important emotional anchor for V and Jackie.
+
+# EVELYN PARKER
+
+Status:
+Deceased during 2077.
+
+Primary location before her death:
+Westbrook and Watson.
+
+Affiliations:
+Clouds.
+Connections to the Mox and Lizzie's Bar.
+
+Occupation:
+Doll.
+Client/intermediary in the Relic heist.
+
+Represents:
+Night City's exploitation economy and the danger of trying to play above one's power level.
+
+Evelyn secretly arranges the intelligence needed for the Konpeki Plaza heist.
+
+She attempts to bypass the people above her and personally profit from the Relic.
+
+Her actions place her between:
+
+Dexter DeShawn.
+
+The Voodoo Boys.
+
+Yorinobu Arasaka.
+
+Clouds.
+
+The Mox.
+
+V.
+
+Evelyn's fate demonstrates the enormous danger faced by people trying to escape Night City's power hierarchy.
+
+# T-BUG
+
+Status:
+Deceased during the Konpeki Plaza heist.
+
+Primary location:
+Night City.
+
+Exact residence:
+Not publicly important.
+
+Occupation:
+Netrunner.
+
+Affiliation:
+Independent mercenary circles.
+
+Represents:
+Professional netrunning in the mercenary world.
+
+T-Bug works with Jackie and V on multiple jobs.
+
+She becomes the crew's netrunner during the Konpeki Plaza operation.
+
+Her job is to:
+
+Penetrate security.
+
+Control surveillance.
+
+Open routes.
+
+Manipulate building systems.
+
+Provide intelligence.
+
+She dies when the operation collapses.
+
+T-Bug is a useful reminder that the netrunner sitting safely somewhere else is still connected directly to a battlefield.
+
+# GUADALUPE "MAMA" WELLES
+
+Status:
+Alive.
+
+Primary location:
+Heywood.
+
+Base:
+El Coyote Cojo.
+
+Occupation:
+Bar owner.
+
+Family:
+Mother of Jackie Welles.
+
+Represents:
+Heywood community and family culture.
+
+Mama Welles runs one of Heywood's most recognizable bars.
+
+She is deeply embedded in the local community.
+
+Mercenaries, Valentinos, workers, families, and neighborhood regulars all pass through her world.
+
+Mama Welles represents the ordinary community beneath Night City's gang and mercenary mythology.
+
+# DELAMAIN
+
+Status:
+Active.
+Later configuration is story-dependent.
+
+Primary location:
+Heywood.
+
+Base:
+Delamain Headquarters, Vista del Rey.
+
+Affiliation:
+Delamain Corporation.
+
+Nature:
+Artificial intelligence.
+
+Occupation:
+Taxi-company owner and operator.
+
+Represents:
+Autonomous AI existing as a legal corporate entity.
+
+Delamain began as an AI involved in Night City's taxi industry.
+
+Eventually the artificial intelligence took over the corporation itself.
+
+Delamain effectively became:
+
+Employee.
+
+Dispatcher.
+
+Manager.
+
+Owner.
+
+Customer service representative.
+
+Fleet intelligence.
+
+All simultaneously.
+
+Its taxis operate throughout Night City.
+
+Delamain is one of the clearest examples that artificial intelligence in 2077 is not theoretical.
+
+An AI can own a business and politely drive someone to dinner.
+
+# ============================================================
+
+# THE AFTERLIFE AND NIGHT CITY MERCENARY LEGENDS
+
+# ============================================================
+
+# ROGUE AMENDIARES
+
+Status:
+Alive at baseline 2077.
+Story-dependent during certain endings.
+
+Primary location:
+Watson.
+
+Base:
+The Afterlife.
+
+Occupation:
+Fixer.
+Former solo.
+
+Titles:
+Queen of the Afterlife.
+One of Night City's most powerful fixers.
+
+Represents:
+The Night City mercenary establishment.
+
+Rogue began as a solo during the early twenty-first century.
+
+She worked alongside:
+
+Johnny Silverhand.
+
+Santiago.
+
+Morgan Blackhand's generation of mercenaries.
+
+Other legendary edgerunners.
+
+Unlike many of her peers, Rogue survived.
+
+By 2077 she has transformed survival into power.
+
+She owns the Afterlife and sits at the center of Night City's elite mercenary economy.
+
+Rogue can connect:
+
+Corporations.
+
+Politicians.
+
+Nomads.
+
+Solos.
+
+Netrunners.
+
+Smugglers.
+
+Fixers.
+
+Clients.
+
+A call from Rogue means the job is probably important.
+
+It also means someone with significant money wants it done.
+
+# CLAIRE RUSSELL
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Residence:
+Santo Domingo.
+
+Workplaces:
+The Afterlife.
+Her garage in Arroyo.
+
+Occupation:
+Bartender.
+Mechanic.
+Street racer.
+
+Represents:
+The social side of Afterlife culture.
+
+Claire is the principal bartender at the Afterlife.
+
+She hears conversations involving:
+
+Fixers.
+
+Mercenaries.
+
+Legends.
+
+Corporate clients.
+
+Criminals.
+
+She also builds and drives vehicles and participates in Night City's street-racing scene.
+
+Claire is transgender.
+
+Her identity is treated matter-of-factly in Night City.
+
+Her larger personal story centers around racing, grief, and revenge rather than her gender.
+
+# NIX
+
+Status:
+Story-dependent.
+
+Primary location:
+The Afterlife.
+
+Occupation:
+Netrunner.
+
+Employer:
+Rogue Amendiares.
+
+Represents:
+The elite underground netrunner.
+
+Nix is one of Rogue's trusted specialists.
+
+He researches:
+
+Rare data.
+
+Old NET technology.
+
+Netrunner history.
+
+Dangerous software.
+
+He is particularly interested in legendary netrunners such as Rache Bartmoss.
+
+Nix represents the type of netrunner elite fixers rely upon when ordinary hackers are insufficient.
+
+# CRISPIN "SQUAMA" WEYLAND
+
+Status:
+Alive at baseline.
+Can become story-dependent.
+
+Primary location:
+The Afterlife and Night City mercenary circuit.
+
+Occupation:
+Solo.
+Bodyguard.
+
+Family:
+Son of Andrew "Boa Boa" Weyland.
+
+Employer:
+Rogue Amendiares.
+
+Represents:
+Second-generation mercenary professionalism.
+
+Crispin works closely with Rogue.
+
+He comes from one of Night City's established mercenary families.
+
+Unlike flamboyant street mercenaries, Crispin is generally professional and focused.
+
+He represents the people for whom edgerunning has almost become a family profession.
+
+# EMMERICK BRONSON
+
+Status:
+Alive.
+
+Primary location:
+The Afterlife.
+
+Affiliation:
+Animals.
+
+Occupation:
+Bouncer and security.
+
+Represents:
+Afterlife's physical security and Animals-for-hire culture.
+
+Emmerick is the enormous Animals-affiliated bouncer guarding the entrance to the Afterlife.
+
+His presence communicates the venue's status perfectly.
+
+You are welcome inside.
+
+Provided the people running the place want you inside.
+
+# MORGAN BLACKHAND
+
+Status:
+Alive according to creator statements.
+Current 2077 whereabouts are deliberately unknown.
+
+Historical home:
+New York.
+
+Historical affiliations:
+U.S. military.
+Militech.
+Independent mercenary work.
+
+Occupation:
+Solo.
+
+Reputation:
+Possibly the greatest solo in Cyberpunk history.
+
+Represents:
+The professional mercenary ideal.
+
+Morgan Blackhand became famous because he could complete extraordinarily dangerous operations without treating indiscriminate killing as the objective.
+
+His philosophy emphasizes:
+
+Professionalism.
+
+Preparation.
+
+Efficiency.
+
+Adaptability.
+
+Mission completion.
+
+He became one of Militech's most valuable independent combat specialists.
+
+Morgan participated in the 2023 Arasaka Tower operation.
+
+His final confrontation with Adam Smasher became legendary.
+
+Unlike most Night City legends, Morgan's death has never been confirmed.
+
+By 2077 his current whereabouts remain intentionally mysterious.
+
+This is why the Afterlife does not have a Morgan Blackhand drink.
+
+The drinks are named for dead mercenaries.
+
+Morgan has never been conclusively declared dead.
+
+# SPIDER MURPHY
+
+Status:
+Alive as of the Fourth Corporate War.
+2077 status unknown.
+
+Historical location:
+Night City.
+
+Occupation:
+Legendary netrunner.
+
+Association:
+Rache Bartmoss.
+Johnny Silverhand.
+Rogue.
+2023 Arasaka assault team.
+
+Represents:
+Old-school netrunning.
+
+Spider Murphy was one of the greatest netrunners of the pre-DataKrash era.
+
+She was associated closely with Rache Bartmoss and participated in the 2023 Arasaka Tower operation.
+
+Spider lived in a version of cyberspace radically different from modern 2077 netrunning.
+
+Her generation could travel the old global NET before Bartmoss's R.A.B.I.D.S. and rogue AIs turned it into hostile territory.
+
+# RACHe BARTMOSS
+
+Status:
+Deceased.
+
+Death:
+2022.
+
+Historical location:
+Various hidden locations.
+Ultimately found in a cryogenic container.
+
+Occupation:
+Netrunner.
+
+Reputation:
+One of history's greatest and most destructive hackers.
+
+Represents:
+The destruction of the Old NET.
+
+Bartmoss believed corporations had gained too much control over cyberspace.
+
+He created the R.A.B.I.D.S., autonomous programs intended to attack corporate datafortresses after his death.
+
+When he died, they activated.
+
+The resulting DataKrash contributed to the destruction of safe global cyberspace.
+
+By 2077, Bartmoss is simultaneously remembered as:
+
+Genius.
+
+Terrorist.
+
+Revolutionary.
+
+Madman.
+
+The man who broke the internet.
+
+# SHaitan
+
+Status:
+Alive as of the Time of the Red.
+2077 status unknown.
+
+Historical location:
+Night City and later Pacific-region operations.
+
+Occupation:
+Solo.
+
+Physical state:
+Full-body conversion cyborg.
+
+Represents:
+The anti-Arasaka combat cyborg.
+
+Shaitan was a legendary solo whose hatred of Arasaka became central to his career.
+
+He fought alongside major edgerunners and participated in the 2023 attack on Arasaka Tower.
+
+He represents the generation of full-conversion combat borgs predating the modern 2077 era.
+
+# ERAN MALOUR
+
+Status:
+Alive as of 2045.
+2077 status unknown.
+
+Historical location:
+Night City.
+
+Occupation:
+Master gunsmith.
+Founder of Malorian Arms.
+
+Represents:
+Legendary weapons craftsmanship.
+
+Malour designed weapons for some of the most famous mercenaries in history.
+
+His work includes Johnny Silverhand's famous Malorian Arms 3516.
+
+His weapons are not merely firearms.
+
+They are collector pieces, personal commissions, and Night City historical artifacts.
+
+# ANDREW "BOA BOA" WEYLAND
+
+Status:
+Deceased before 2077.
+
+Historical affiliation:
+Petrochem.
+
+Occupation:
+Legendary solo and black-operations specialist.
+
+Family:
+Father of Crispin Weyland.
+
+Represents:
+The old corporate solo generation.
+
+Boa Boa became famous as an extremely capable professional mercenary.
+
+By 2077 his son continues operating in the same world.
+
+# ============================================================
+
+# NIGHT CITY FIXERS
+
+# ============================================================
+
+# DEXTER DESHAWN
+
+Common name:
+Dex.
+
+Status:
+Deceased during early 2077.
+
+Primary location:
+Night City.
+
+Occupation:
+Fixer.
+
+Represents:
+The glamorous fixer who overestimates his own return.
+
+Dex was once one of Night City's major fixers before leaving the city for several years.
+
+He returns and immediately arranges the Konpeki Plaza Relic heist.
+
+His team includes:
+
+V.
+
+Jackie.
+
+T-Bug.
+
+The operation catastrophically fails.
+
+Dex attempts to eliminate V to protect himself.
+
+He is subsequently killed.
+
+Dex demonstrates that reputation can survive longer than actual competence.
+
+# REGINA JONES
+
+Status:
+Alive.
+
+Territory:
+Watson.
+
+Base:
+Kabuki.
+
+Former occupation:
+Journalist.
+
+Current occupation:
+Fixer.
+
+Represents:
+The socially conscious fixer.
+
+Regina worked in media before moving into Night City's mercenary economy.
+
+She maintains a strong interest in:
+
+Corporate wrongdoing.
+
+Community protection.
+
+Cyberpsychosis.
+
+Information.
+
+She employs V for numerous jobs throughout Watson.
+
+Regina also organizes attempts to capture cyberpsychos alive rather than automatically killing them.
+
+This distinguishes her significantly from most Night City employers.
+
+# WAKAKO OKADA
+
+Status:
+Alive.
+
+Territory:
+Westbrook.
+
+Primary base:
+Japantown.
+
+Office:
+Pachinko parlor around Jig-Jig Street.
+
+Occupation:
+Fixer.
+
+Connections:
+Strong family connections to Tyger Claws.
+
+Represents:
+Old-school organized-crime brokerage.
+
+Wakako is one of Night City's most experienced fixers.
+
+She has:
+
+Multiple deceased husbands.
+
+Numerous sons.
+
+Deep Tyger Claw connections.
+
+Decades of criminal relationships.
+
+Wakako rarely needs to personally threaten anyone.
+
+Everyone familiar with Westbrook already understands what ignoring her can mean.
+
+# SEBASTIAN "PADRE" IBARRA
+
+Status:
+Alive.
+
+Territory:
+Heywood.
+
+Primary area:
+The Glen.
+
+Former associations:
+Valentinos and local Catholic/community culture.
+
+Occupation:
+Fixer.
+
+Represents:
+Heywood's intersection of faith, family, and organized crime.
+
+Padre speaks with the manner of a priest even while arranging criminal contracts.
+
+He knows:
+
+Valentinos.
+
+Local families.
+
+Politicians.
+
+Criminals.
+
+Mercenaries.
+
+People who owe favors.
+
+His power comes from understanding Heywood's social network.
+
+# DINO DINOVIC
+
+Status:
+Alive.
+
+Territory:
+City Center.
+
+Primary base:
+Downtown / City Center nightlife.
+
+Occupation:
+Fixer.
+
+Background:
+Musician and Night City scene veteran.
+
+Represents:
+Downtown mercenary brokerage.
+
+Dino handles gigs where corporate and street-level Night City overlap.
+
+His clients can include:
+
+Executives.
+
+Businesses.
+
+Criminals.
+
+People with enough money to make City Center problems disappear.
+
+# MUAMAR "EL CAPITÁN" REYES
+
+Status:
+Alive.
+
+Territory:
+Santo Domingo.
+
+Primary location:
+Rancho Coronado.
+
+Occupation:
+Fixer.
+Vehicle broker.
+
+Background:
+Former corporate employee.
+
+Represents:
+Santo Domingo's working-class criminal economy and vehicle culture.
+
+Muamar operates throughout the industrial districts.
+
+He becomes particularly involved in:
+
+Vehicle acquisition.
+
+Smuggling.
+
+Mercenary work.
+
+Automotive contracts.
+
+His Autofixer business demonstrates how easily legitimate-looking commerce and mercenary economics merge in Night City.
+
+# WADE BLEECKER
+
+Alias:
+Mr. Hands.
+
+Status:
+Alive.
+
+Territory:
+Pacifica and Dogtown.
+
+Base:
+Dogtown.
+Later openly operates from an office inside Heavy Hearts.
+
+Occupation:
+Fixer.
+
+Former occupation:
+Senior Petrochem corporate employee.
+
+Represents:
+Political fixer power.
+
+Mr. Hands is far more than a job broker.
+
+He approaches Dogtown as a political system.
+
+His goals involve:
+
+Influence.
+
+Alliances.
+
+Control.
+
+Leadership changes.
+
+Economic leverage.
+
+He carefully cultivates contacts and attempts to transform himself into one of Dogtown's permanent power brokers.
+
+His real identity is deliberately concealed from most clients.
+
+# DAKOTA SMITH
+
+Status:
+Alive.
+
+Territory:
+The Badlands.
+
+Base:
+Her garage outside Night City.
+
+Affiliation:
+Nomad networks.
+Connections to the Aldecaldos and other Nomads.
+
+Occupation:
+Fixer.
+Techie.
+
+Represents:
+Badlands logistics and Nomad brokerage.
+
+Dakota coordinates work involving:
+
+Smuggling.
+
+Convoys.
+
+Nomads.
+
+Badlands facilities.
+
+Corporate operations outside the city.
+
+She understands that the open desert has its own politics.
+
+# FARADAY
+
+Status:
+Deceased in 2076.
+
+Primary location:
+Night City, especially Santo Domingo corporate/mercenary circles.
+
+Occupation:
+Fixer.
+
+Affiliations:
+Works for major corporate clients.
+
+Represents:
+The corporate-controlled fixer.
+
+Faraday employs Maine and later David Martinez's crew.
+
+He attempts to maneuver between powerful corporate employers while advancing himself.
+
+Faraday believes connections make him important enough to survive corporate politics.
+
+He discovers otherwise.
+
+# ============================================================
+
+# MAELSTROM
+
+# ============================================================
+
+# DECLAN "BRICK" GRIFFIN
+
+Status:
+Story-dependent in 2077.
+
+Primary location:
+Northside, Watson.
+
+Affiliation:
+Maelstrom.
+
+Role:
+Former gang leader.
+Potential restored leader.
+
+Represents:
+Older Maelstrom leadership.
+
+Brick controlled Maelstrom before Royce violently overthrew him.
+
+He is imprisoned inside the All Foods facility.
+
+Depending upon events, Brick can survive and regain influence.
+
+# SIMON "ROYCE" RANDALL
+
+Status:
+Story-dependent.
+
+Primary location:
+Northside, Watson.
+
+Affiliation:
+Maelstrom.
+
+Role:
+Gang leader after overthrowing Brick.
+
+Represents:
+Maelstrom's violent chrome obsession.
+
+Royce seizes leadership through force.
+
+He is aggressive, heavily augmented, unpredictable, and perfectly representative of Maelstrom's most extreme tendencies.
+
+# OFELIA "PATRICIA" SIRAWIAN
+
+Status:
+Story-dependent.
+
+Primary location:
+Northside and Totentanz.
+
+Affiliation:
+Maelstrom.
+
+Role:
+Senior member.
+Potential gang leader.
+
+Represents:
+Maelstrom's internal succession politics.
+
+Patricia is a loyal Maelstrom ganger capable of becoming leader depending upon which other contenders survive.
+
+# DUM DUM
+
+Status:
+Story-dependent.
+
+Primary location:
+Northside.
+
+Affiliation:
+Maelstrom.
+
+Role:
+Senior ganger / lieutenant.
+
+Represents:
+The strangely sociable side of Maelstrom.
+
+Dum Dum is heavily augmented and dangerous but can behave surprisingly conversationally during business.
+
+He is a useful example that Maelstrom members are not permanently screaming cyberpsychos.
+
+# ============================================================
+
+# TYGER CLAWS
+
+# ============================================================
+
+# JUN AZEGAMI
+
+Status:
+Active in 2077.
+
+Primary location:
+Westbrook.
+
+Affiliation:
+Tyger Claws.
+
+Role:
+Senior leadership.
+
+Represents:
+Upper-level Tyger Claw organization.
+
+Jun Azegami is counted among the senior figures overseeing the large criminal network operating throughout Westbrook.
+
+# MARCUS ICHIDA
+
+Status:
+Active around 2077.
+
+Primary location:
+Westbrook.
+
+Affiliation:
+Tyger Claws.
+
+Role:
+Senior leadership.
+
+Represents:
+Tyger Claw organized-crime hierarchy.
+
+Marcus operates at a level significantly above ordinary street Claws.
+
+# HIROMI SATO
+
+Status:
+Story-dependent.
+
+Primary location:
+Japantown.
+
+Base:
+Clouds.
+
+Affiliation:
+Tyger Claws.
+
+Role:
+Senior Tyger-linked executive and Clouds authority figure.
+
+Represents:
+The Tyger Claws' control of Night City's vice industry.
+
+Hiromi is part of the power structure surrounding Clouds.
+
+His importance comes from economics rather than street combat.
+
+# JOTARO SHOBO
+
+Status:
+Story-dependent.
+
+Primary location:
+Kabuki.
+
+Base:
+Ho-Oh Club.
+
+Affiliation:
+Tyger Claws.
+
+Role:
+High-ranking gangster and trafficker.
+
+Represents:
+The ugliest side of Tyger Claw vice operations.
+
+Jotaro is infamous for:
+
+Human trafficking.
+
+Torture.
+
+Violence.
+
+Braindance exploitation.
+
+Even people accustomed to Night City crime consider him particularly vicious.
+
+# MAIKO MAEDA
+
+Status:
+Story-dependent.
+
+Primary location:
+Japantown.
+
+Base:
+Clouds.
+
+Occupation:
+Administrator.
+
+Affiliation:
+Closely connected to the Tyger Claws.
+
+Represents:
+Ambition inside Night City's vice industry.
+
+Maiko previously had a relationship with Judy Álvarez.
+
+She understands that protecting workers and controlling the business are not necessarily the same objective.
+
+Maiko is politically intelligent and willing to negotiate with the people currently holding power.
+
+# OSWALD "WOODMAN" FORREST
+
+Status:
+Story-dependent.
+
+Primary location:
+Clouds, Japantown.
+
+Occupation:
+Clouds administrator.
+
+Affiliation:
+Tyger Claw-controlled business.
+
+Represents:
+Institutionalized abuse inside Night City's doll industry.
+
+Woodman occupies enough authority inside Clouds to exploit workers with little fear of consequences.
+
+# ============================================================
+
+# VALENTINOS
+
+# ============================================================
+
+# CAMPO ORTA
+
+Status:
+Alive in 2077.
+
+Primary affiliation:
+Valentinos.
+
+Role:
+Gang leader.
+
+Location:
+Incarcerated during the 2077 period.
+
+Represents:
+The upper leadership of the Valentinos.
+
+Campo remains influential even while imprisoned.
+
+The Valentinos are deeply community-based, meaning formal incarceration does not automatically eliminate someone's social authority.
+
+# GUSTAVO ORTA
+
+Status:
+Story-dependent.
+
+Primary location:
+Heywood.
+
+Affiliation:
+Valentinos.
+
+Role:
+High-ranking member.
+
+Represents:
+Valentino loyalty and tragedy.
+
+Gustavo belongs to the same influential Orta network and becomes involved in a feud shaped by romance, family loyalty, and gang violence.
+
+# JACKIE WELLES
+
+Former affiliation:
+Valentinos.
+
+Jackie should not be treated as an active Valentino in 2077.
+
+His earlier gang membership demonstrates how deeply the Valentinos are embedded in Heywood life.
+
+Leaving the gang does not erase someone's neighborhood relationships.
+
+# ============================================================
+
+# 6TH STREET
+
+# ============================================================
+
+# SOLOMON "X" WRIGHT
+
+Status:
+Historical.
+
+Affiliation:
+6th Street.
+
+Role:
+Founder.
+
+Represents:
+The original ideal of 6th Street.
+
+Wright helped establish 6th Street as a veteran-led neighborhood defense organization.
+
+The original concept involved protecting communities abandoned by the NCPD.
+
+Later generations became increasingly criminal.
+
+# RICK MORTON
+
+Status:
+Deceased before the main 2077 storyline.
+
+Affiliation:
+6th Street.
+
+Role:
+Former leader.
+
+Represents:
+The older leadership displaced by an internal coup.
+
+Morton's removal demonstrates the gang's transition toward more aggressive leadership.
+
+# WILL GUNNER
+
+Status:
+Alive at baseline.
+
+Primary location:
+Santo Domingo.
+
+Affiliation:
+6th Street.
+
+Title:
+General.
+
+Role:
+Gang leader.
+
+Represents:
+Modern militarized 6th Street.
+
+Gunner's faction pushes the gang toward stronger territorial and criminal ambitions.
+
+Military symbolism remains.
+
+The old neighborhood-watch ideal becomes increasingly difficult to recognize.
+
+# ============================================================
+
+# ANIMALS
+
+# ============================================================
+
+# MATILDA K. ROSE
+
+Alias:
+Sasquatch.
+
+Status:
+Story-dependent.
+
+Primary location:
+Pacifica during the main 2077 events.
+
+Affiliation:
+Animals.
+
+Role:
+Pack leader / alpha.
+
+Represents:
+The Animals' obsession with physical power.
+
+Sasquatch is enormous even by Animals standards.
+
+She combines:
+
+Extreme muscular modification.
+
+Combat drugs.
+
+Cyberware.
+
+Heavy weapons.
+
+Brute-force tactics.
+
+The Animals do not possess one unified Night City hierarchy, so Sasquatch should be considered leader of a major pack rather than queen of every Animal in the city.
+
+# RHINO
+
+Status:
+Alive at baseline.
+
+Primary location:
+Night City.
+
+Affiliation:
+Animals.
+
+Occupation:
+Fighter.
+
+Represents:
+Animals combat-sport culture.
+
+Rhino is known for underground fighting.
+
+She is remarkably friendly compared with many gang members until the fists start moving.
+
+# ============================================================
+
+# VOODOO BOYS
+
+# ============================================================
+
+# MAMAN BRIGITTE
+
+Status:
+Story-dependent.
+
+Primary location:
+Pacifica.
+
+Base:
+Voodoo Boys territory around Coastview.
+
+Affiliation:
+Voodoo Boys.
+
+Role:
+Major leader and elite netrunner.
+
+Represents:
+The Voodoo Boys' deepest Blackwall ambitions.
+
+Brigitte is one of the most important Voodoo Boys leaders.
+
+Her interests extend far beyond ordinary crime.
+
+She is focused on:
+
+The Blackwall.
+
+Rogue AIs.
+
+Old NET technology.
+
+The possibility of dramatic change in the relationship between humans and artificial intelligence.
+
+# PLACIDE
+
+Status:
+Story-dependent.
+
+Primary location:
+Pacifica.
+
+Affiliation:
+Voodoo Boys.
+
+Role:
+Senior enforcer / lieutenant.
+
+Represents:
+The physical enforcement side of the Voodoo Boys.
+
+Placide serves as one of Brigitte's most visible representatives.
+
+He is:
+
+Suspicious.
+
+Physically imposing.
+
+Hostile toward outsiders.
+
+He treats mercenaries outside the community as disposable assets.
+
+# TI NEPTUNE
+
+Status:
+Story-dependent.
+
+Primary location:
+Pacifica.
+
+Affiliation:
+Voodoo Boys.
+
+Occupation:
+Netrunner.
+
+Represents:
+The gang's high-end technical specialization.
+
+Ti Neptune participates in the gang's most dangerous operations involving cyberspace and the Blackwall.
+
+# WILKY "SLIDER" LAGUERRE
+
+Status:
+Alive before Phantom Liberty.
+Later fate tied to Phantom Liberty events.
+
+Primary location:
+Dogtown.
+
+Affiliation:
+Former / splinter Voodoo Boys network.
+
+Occupation:
+Netrunner and local gang leader.
+
+Represents:
+Dogtown's independent Voodoo Boy offshoots.
+
+Slider is extremely capable and maintains enough local power that even major Dogtown factions respect his technical ability.
+
+# ============================================================
+
+# THE MOX
+
+# ============================================================
+
+# SUSIE "Q"
+
+Status:
+Alive.
+
+Primary location:
+Lizzie's Bar, Watson.
+
+Affiliation:
+The Mox.
+
+Role:
+Gang leader.
+
+Represents:
+The Mox as an organized protective force.
+
+Susie Q leads the Mox during 2077.
+
+Her priority is maintaining the organization rather than launching an endless war against every abusive business in the city.
+
+This occasionally creates tension with more idealistic Mox members.
+
+# ELIZABETH "LIZZIE" BORDEN
+
+Status:
+Deceased.
+
+Death:
+2067.
+
+Historical location:
+Watson.
+
+Occupation:
+Club owner and sex worker.
+
+Represents:
+The founding spirit of the Mox.
+
+Lizzie was famous for defending sex workers from abusive clients.
+
+Her murder triggered outrage and violent unrest.
+
+The Mox emerged from that movement.
+
+Lizzie's Bar carries her name.
+
+# JUDY ÁLVAREZ
+
+Affiliation:
+The Mox.
+
+See primary entry.
+
+Judy represents the more idealistic side of the organization and frequently pushes for direct action to protect exploited workers.
+
+# RITA WHEELER
+
+Status:
+Alive.
+
+Primary location:
+Lizzie's Bar.
+
+Affiliation:
+The Mox.
+
+Occupation:
+Security.
+
+Represents:
+The visual street presence of the Mox.
+
+Rita is one of Lizzie's most recognizable guards and demonstrates the combination of fashion, sexuality, and very visible capacity for violence characteristic of the gang.
+
+# ============================================================
+
+# WRAITHS / RAFFEN SHIV
+
+# ============================================================
+
+# NASH BANE
+
+Status:
+Story-dependent.
+
+Primary location:
+Badlands.
+
+Affiliation:
+Wraiths.
+
+Role:
+Senior raider.
+
+Represents:
+Raffen Shiv road warfare.
+
+Nash operates among the Wraiths and becomes involved with Panam Palmer's mercenary work.
+
+He specializes in:
+
+Vehicle crime.
+
+Ambushes.
+
+Badlands operations.
+
+Raiding.
+
+# DOGKILLER
+
+Status:
+Historical.
+
+Affiliation:
+Wraiths / Raffen Shiv.
+
+Role:
+Important earlier Wraith leader.
+
+Represents:
+The development of the Wraiths into one of the West Coast's notorious outlaw Nomad groups.
+
+By 2077, individual Wraith bands do not necessarily answer to a single universally recognized leader.
+
+# ============================================================
+
+# SCAVENGERS
+
+# ============================================================
+
+The Scavengers deliberately do not receive a named supreme leader here.
+
+There is no major canon citywide Scavenger boss controlling every Scav operation in Night City.
+
+Scavs are decentralized.
+
+Different crews operate independently.
+
+This is important for RP.
+
+Do not invent a "King of the Scavs."
+
+Individual Scav dens can have local bosses without those people controlling the entire organization.
+
+# ============================================================
+
+# BARGHEST AND DOGTOWN
+
+# ============================================================
+
+# KURT HANSEN
+
+Status:
+Alive at the beginning of Phantom Liberty.
+Dies during the main Phantom Liberty conflict.
+
+Primary location:
+Dogtown.
+
+Residence / headquarters:
+Black Sapphire.
+
+Affiliation:
+BARGHEST.
+
+Former affiliation:
+Militech / NUSA military forces.
+
+Rank:
+Colonel.
+
+Role:
+Dictator of Dogtown.
+
+Represents:
+The soldier who built his own state.
+
+Hansen commanded forces in Pacifica during the Unification War.
+
+When ordered to leave after the peace agreement, he refused.
+
+His troops remained.
+
+Those troops became BARGHEST.
+
+Hansen transformed Dogtown into:
+
+Military enclave.
+
+Black market.
+
+Weapons hub.
+
+Smuggling center.
+
+Personal dictatorship.
+
+He is simultaneously:
+
+Gang boss.
+
+Colonel.
+
+Politician.
+
+Arms dealer.
+
+Head of state.
+
+# CHESTER BENNETT
+
+Status:
+Story-dependent after Hansen's death.
+
+Primary location:
+Dogtown.
+
+Affiliation:
+BARGHEST.
+
+Rank:
+Lieutenant Colonel.
+
+Role:
+Second-in-command / senior officer.
+
+Represents:
+BARGHEST's military establishment.
+
+Bennett is one of the strongest potential successors after Hansen.
+
+He understands the organization primarily through military power.
+
+# JAGO SZABÓ
+
+Status:
+Story-dependent.
+
+Primary location:
+Dogtown.
+
+Affiliation:
+BARGHEST.
+
+Role:
+Chief accountant, financial official and political operator.
+
+Represents:
+The economic machinery beneath Dogtown's military government.
+
+Jago understands that BARGHEST does not survive on rifles alone.
+
+Weapons.
+
+Bribes.
+
+Trade.
+
+Smuggling.
+
+Taxes.
+
+Black-market commerce.
+
+Someone has to keep the eddies moving.
+
+# ============================================================
+
+# ALDECALDOS AND IMPORTANT NOMADS
+
+# ============================================================
+
+# JUAN ALDECALDO
+
+Status:
+Deceased.
+
+Historical location:
+Los Angeles and later Nomad routes across North America and Mexico.
+
+Role:
+Founder of the Aldecaldos.
+
+Represents:
+The birth of modern Nomad culture.
+
+Juan began as an ordinary displaced American whose family was destroyed by social collapse and gang violence.
+
+He organized community self-defense.
+
+That movement eventually took to the road.
+
+The Aldecaldos grew from it.
+
+Juan's story forms part of the foundational mythology of North American Nomad society.
+
+# NOMAD SANTIAGO
+
+Status:
+Alive as of 2045.
+2077 fate not firmly established.
+
+Historical location:
+Badlands and Aldecaldo routes.
+
+Affiliation:
+Aldecaldos.
+
+Role:
+Legendary Aldecaldo leader.
+Former mercenary.
+
+Associates:
+Rogue.
+Johnny Silverhand.
+
+Represents:
+The classic Nomad leader.
+
+Santiago succeeded Juan Aldecaldo as an important leader of the nation.
+
+He participated in major Night City events during the early twenty-first century.
+
+By 2077 his legacy remains extremely important among Aldecaldos even though the current Night City family is led by Saul.
+
+# SAUL BRIGHT
+
+Status:
+Alive at baseline.
+Story-dependent in certain endings.
+
+Primary location:
+Badlands.
+
+Base:
+Aldecaldo camp.
+
+Affiliation:
+Aldecaldos.
+
+Role:
+Family leader.
+
+Represents:
+Nomad pragmatism.
+
+Saul's primary concern is survival of the family.
+
+He is willing to consider corporate deals if they provide:
+
+Security.
+
+Money.
+
+Equipment.
+
+Long-term stability.
+
+This repeatedly puts him into conflict with Panam, who fears corporate dependence will destroy the family's independence.
+
+# MITCH ANDERSON
+
+Status:
+Alive.
+
+Primary location:
+Aldecaldo camp.
+
+Affiliation:
+Aldecaldos.
+
+Background:
+Military veteran.
+
+Occupation:
+Mechanic.
+Nomad.
+
+Represents:
+The veteran core of the Aldecaldos.
+
+Mitch is dependable, technically skilled, and deeply committed to the family.
+
+He is one of Panam's closest allies.
+
+# SCORPION
+
+Status:
+Deceased during 2077.
+
+Primary location:
+Badlands.
+
+Affiliation:
+Aldecaldos.
+
+Background:
+Veteran.
+
+Represents:
+The cost of Nomad conflict with corporations.
+
+Scorpion is one of Mitch's closest friends and another experienced Aldecaldo.
+
+His death during the Kang Tao incident deeply affects the family.
+
+# CAROL EMEKA
+
+Status:
+Alive.
+
+Primary location:
+Aldecaldo camp.
+
+Affiliation:
+Aldecaldos.
+
+Occupation:
+Techie.
+Netrunner.
+
+Represents:
+The technical side of Nomad life.
+
+Nomads are not simply drivers with shotguns.
+
+Carol demonstrates their ability to:
+
+Hack.
+
+Engineer.
+
+Repair.
+
+Maintain communications.
+
+Operate sophisticated equipment.
+
+# TRACE SANTIAGO
+
+Status:
+Alive as of 2045.
+Appears in 2077-era media material.
+
+Historical/current connection:
+Night City.
+
+Affiliations:
+Aldecaldos.
+Leak News.
+Cyber6.
+
+Occupation:
+Investigative journalist.
+Mercenary.
+
+Family:
+Son of Nomad Santiago.
+
+Represents:
+Nomad investigative media.
+
+Trace became famous during the Time of the Red for challenging official narratives surrounding the Fourth Corporate War and Night City's destruction.
+
+He demonstrates that the children of Nomad legends do not necessarily become Nomad leaders.
+
+# DAKOTA SMITH
+
+Affiliation:
+Nomad networks.
+
+Role:
+Badlands fixer.
+
+See fixer section.
+
+# ============================================================
+
+# NUSA GOVERNMENT AND FIA
+
+# ============================================================
+
+# ROSALIND MYERS
+
+Status:
+Alive at baseline.
+Certain Phantom Liberty outcomes can place her in extreme danger.
+
+Primary political base:
+Washington, D.C.
+
+Affiliation:
+New United States of America.
+
+Former affiliation:
+Militech.
+
+Role:
+President of the NUSA.
+
+Former role:
+Militech CEO.
+
+Represents:
+The merger of government and corporate military power.
+
+Myers is one of the most powerful politicians in North America.
+
+She is:
+
+Former military.
+
+Former Militech leadership.
+
+Aggressively pro-NUSA.
+
+A principal architect of modern reunification policy.
+
+Myers believes the old United States should be restored under federal authority.
+
+The Unification War occurred under her presidency.
+
+She is highly competent, extremely pragmatic, and willing to treat individuals as strategic assets.
+
+# SOLOMON REED
+
+Status:
+Story-dependent.
+
+Primary location during Phantom Liberty:
+Dogtown and Night City.
+
+Affiliation:
+Federal Intelligence Agency.
+
+Occupation:
+FIA agent.
+
+Represents:
+The loyal intelligence officer.
+
+Reed spent years undercover after being abandoned by his own government.
+
+Despite everything the FIA did to him, he remains deeply loyal to the institution.
+
+His tragedy is that he frequently understands exactly how destructive that loyalty is.
+
+He simply cannot imagine himself without it.
+
+# SONG SO MI
+
+Alias:
+Songbird.
+
+Status:
+Story-dependent.
+
+Primary official base:
+Washington, D.C.
+
+Operational location:
+Dogtown during Phantom Liberty.
+
+Affiliation:
+FIA.
+
+Role:
+Elite netrunner.
+Intelligence analyst.
+Presidential operative.
+
+Represents:
+The human cost of state cyberwarfare.
+
+Songbird is one of the most powerful living netrunners.
+
+The NUSA has used her abilities in dangerous operations involving the Blackwall.
+
+Her body and nervous system have been progressively damaged by the work.
+
+She is simultaneously:
+
+Government agent.
+
+Strategic weapon.
+
+Prisoner of her own usefulness.
+
+# ALENA XENAKIS
+
+Alias:
+Alex.
+
+Status:
+Story-dependent.
+
+Primary location:
+Dogtown.
+
+Base:
+The Moth.
+
+Affiliation:
+FIA.
+
+Occupation:
+Undercover agent.
+
+Represents:
+Deep-cover intelligence work.
+
+Alex spent years embedded in Dogtown.
+
+She is skilled in:
+
+Espionage.
+
+Disguise.
+
+Infiltration.
+
+Combat.
+
+Behavioral mimicry.
+
+Her greatest dream is not political power.
+
+It is eventually being allowed to stop.
+
+# ELIZABETH KRESS
+
+Status:
+Historical.
+Alive into the later twenty-first century according to known records, though no major active 2077 role.
+
+Primary political base:
+Washington, D.C.
+
+Former affiliation:
+Militech.
+
+Role:
+President during the Fourth Corporate War and postwar reconstruction.
+
+Represents:
+The creation of the modern NUSA.
+
+Kress transformed the shattered federal government after the Fourth Corporate War.
+
+She nationalized or heavily subordinated Militech to federal authority and spent decades rebuilding central government power.
+
+Her policies laid much of the groundwork for the NUSA Myers later inherited.
+
+# DAVID WHINDAM
+
+Status:
+Historical.
+
+Affiliation:
+NUSA.
+
+Role:
+First president elected under the reorganized NUSA constitutional system.
+
+Represents:
+The formal transition from surviving United States institutions into the New United States.
+
+# ============================================================
+
+# NIGHT CITY POLITICS
+
+# ============================================================
+
+# LUCIUS RHYNE
+
+Status:
+Deceased in 2077.
+
+Primary location:
+Night City.
+
+Role:
+Mayor of Night City.
+
+Historical importance:
+Central figure during the Unification War.
+
+Represents:
+Night City's political independence.
+
+Rhyne was instrumental in securing Arasaka intervention when NUSA forces threatened Night City during the Unification War.
+
+The resulting standoff preserved the city's independence.
+
+He later became mayor.
+
+His sudden death in 2077 creates a major political crisis.
+
+# WELDON HOLT
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Role:
+Deputy Mayor.
+Acting political leader after Rhyne's death.
+Mayoral candidate.
+
+Represents:
+The corporate-friendly Night City establishment.
+
+Holt is closely associated with the existing municipal power structure.
+
+He benefits politically from Rhyne's death and becomes a major rival to Jefferson Peralez.
+
+# JEFFERSON PERALEZ
+
+Status:
+Alive.
+
+Primary location:
+Westbrook.
+
+Residence:
+Luxury apartment shared with Elizabeth.
+
+Occupation:
+Politician.
+Former councilman.
+Mayoral candidate.
+Later identified as Night City mayor.
+
+Represents:
+Independent political reform and the danger of hidden manipulation.
+
+Jefferson campaigns on reducing corporate control over Night City politics.
+
+He presents himself as:
+
+Self-made.
+
+Anti-establishment.
+
+Anti-corporate.
+
+Civic-minded.
+
+His life becomes connected to evidence that an unknown organization is manipulating his memories, personality, and household.
+
+# ELIZABETH PERALEZ
+
+Status:
+Alive.
+
+Primary location:
+Westbrook.
+
+Occupation:
+Lawyer.
+Political adviser.
+
+Role:
+Jefferson's wife and closest political partner.
+
+Represents:
+The personal cost of the Peralez conspiracy.
+
+Elizabeth discovers enough evidence to understand that something is deeply wrong inside their home.
+
+Her instinct becomes protecting Jefferson even if that means hiding parts of the truth from him.
+
+# MR. BLUE EYES
+
+Status:
+Alive in 2077.
+
+Primary location:
+Unknown.
+Observed in Night City and associated with high-level operations.
+
+Affiliation:
+Officially undisclosed.
+
+Occupation:
+Unknown.
+
+Represents:
+Night City's unknown higher powers.
+
+Mr. Blue Eyes appears connected to events involving:
+
+Jefferson Peralez.
+
+Extremely sophisticated intelligence operations.
+
+The Crystal Palace.
+
+High-level mercenary work.
+
+His glowing blue eyes have encouraged theories involving artificial intelligence and remote control.
+
+Those theories are not confirmed canon.
+
+Do not automatically label him a Night Corp executive, rogue AI, or specific organization member.
+
+His actual affiliation remains intentionally mysterious.
+
+# ============================================================
+
+# NCPD, MAX-TAC AND LAW ENFORCEMENT
+
+# ============================================================
+
+# RIVER WARD
+
+See central character entry.
+
+River represents ordinary detective work trying to survive inside the NCPD.
+
+# MELISSA RORY
+
+Status:
+Alive at baseline.
+
+Primary location:
+Night City.
+
+Affiliation:
+MAX-TAC.
+
+Role:
+Lieutenant / senior MAX-TAC officer.
+
+Represents:
+The terrifying relationship between cyberpsychosis and MAX-TAC.
+
+Melissa once experienced an extreme cyberpsychotic episode herself.
+
+She was subdued by MAX-TAC.
+
+Later she joined them.
+
+Her story supports one of Night City's darkest rumors:
+
+MAX-TAC sometimes recruits the exact people it is designed to hunt.
+
+# JERRY FAWLTER
+
+Status:
+Alive in 2077.
+
+Primary location:
+Night City.
+
+Affiliation:
+NCPD.
+
+Role:
+Police Commissioner.
+
+Represents:
+The upper political leadership of Night City's police.
+
+The commissioner exists much closer to corporate and political power than ordinary patrol officers.
+
+# MAX HAMMERMAN
+
+Status:
+Historical.
+
+Affiliation:
+MAX-TAC / NCPD.
+
+Role:
+Major MAX-TAC commander during the Time of the Red.
+
+Represents:
+The institutional development of MAX-TAC before 2077.
+
+# ============================================================
+
+# NETWATCH AND THE NET
+
+# ============================================================
+
+# BRYCE MOSLEY
+
+Status:
+Story-dependent.
+
+Primary location during 2077 operation:
+Pacifica.
+
+Affiliation:
+NetWatch.
+
+Occupation:
+Agent.
+Netrunner.
+
+Represents:
+NetWatch field operations.
+
+Mosley operates against the Voodoo Boys in Pacifica.
+
+His primary concern is preventing dangerous incursions involving the Blackwall.
+
+He is willing to make deals with mercenaries if doing so protects NetWatch interests.
+
+# MAGNIFICENT CURTIS
+
+Status:
+Historical / later status unclear.
+
+Affiliation:
+NetWatch.
+
+Role:
+Important Pacifica-region NetWatch figure during the Time of the Red.
+
+Represents:
+The rebuilding of network security after the DataKrash.
+
+# ALT CUNNINGHAM
+
+Status:
+Biologically deceased.
+
+Digital status:
+Active.
+
+Primary location:
+Beyond the Blackwall / cyberspace.
+
+Former location:
+Night City.
+
+Occupation:
+Legendary netrunner.
+Programmer.
+
+Historical relationship:
+Johnny Silverhand.
+
+Represents:
+Digital consciousness and post-human intelligence.
+
+Alt created the original Soulkiller program.
+
+Her consciousness eventually became separated from her physical body.
+
+Over decades, the digital entity known as Alt evolved beyond the original human personality.
+
+By 2077 she is one of the most powerful known entities beyond the Blackwall.
+
+Calling her simply "Alt Cunningham uploaded to the internet" is incomplete.
+
+She retains Alt's origins and memories.
+
+She has also become something larger and stranger.
+
+# DR. PARADOX
+
+Status:
+Identity and physical status unknown.
+
+Primary location:
+The Net.
+
+Occupation:
+Pirate broadcaster.
+Netrunner.
+Anti-corporate media personality.
+
+Represents:
+Anonymous digital resistance.
+
+Dr. Paradox broadcasts anti-corporate messages and information while protecting their actual identity.
+
+The character functions almost more like an underground symbol than a normal celebrity.
+
+# ============================================================
+
+# MILITECH
+
+# ============================================================
+
+# LUCAS HARFORD
+
+Status:
+Alive in 2077.
+
+Primary corporate base:
+United States / Washington corporate establishment.
+
+Affiliation:
+Militech.
+
+Role:
+CEO of Militech.
+
+Represents:
+Modern Militech corporate leadership.
+
+Harford oversees one of the world's largest weapons and military corporations.
+
+Because Militech is so tightly connected to the NUSA, his position exists close to national political power.
+
+# ROSALIND MYERS
+
+Former role:
+Militech CEO.
+
+See NUSA section.
+
+Myers remains one of the most important examples of the revolving door between Militech and the federal government.
+
+# MEREDITH STOUT
+
+Status:
+Story-dependent.
+
+Primary location:
+Night City.
+
+Affiliation:
+Militech.
+
+Role:
+Senior operations manager.
+Later potentially government-relations executive.
+
+Represents:
+Militech corporate intelligence culture.
+
+Meredith investigates the theft of a Militech convoy by Maelstrom.
+
+Her position becomes tied to an internal corporate struggle with Anthony Gilchrist.
+
+Depending upon how events unfold:
+
+Meredith can survive and advance.
+
+Or Gilchrist can replace her.
+
+This is a small-scale example of corporate politics where losing an internal dispute can literally get someone killed.
+
+# ANTHONY GILCHRIST
+
+Status:
+Story-dependent.
+
+Primary location:
+Night City.
+
+Affiliation:
+Militech.
+
+Role:
+Corporate agent / manager.
+
+Represents:
+Internal corporate betrayal.
+
+Gilchrist becomes Meredith Stout's principal suspect during the Maelstrom convoy investigation.
+
+Either Gilchrist or Stout can emerge from the dispute depending upon V's actions.
+
+# DONALD LUNDEE
+
+Status:
+Deceased before the modern Myers era.
+
+Historical affiliation:
+Militech.
+
+Role:
+Former CEO and one of the corporation's major historical architects.
+
+Represents:
+Militech during the Corporate Wars.
+
+Lundee helped transform Militech into a global military power and was a central figure during its rivalry with Arasaka.
+
+# ANTONIO LUCESSI
+
+Status:
+Deceased in 2077.
+
+Affiliation:
+Militech.
+
+Role:
+Co-founder and technological architect.
+
+Represents:
+The engineering foundation of Militech.
+
+Luccessi was one of the people responsible for turning a young arms corporation into a global military-industrial giant.
+
+# ============================================================
+
+# BIOTECHNICA
+
+# ============================================================
+
+# TINA CARUSO
+
+Status:
+Active around the 2077 era.
+
+Primary area:
+West Coast.
+
+Affiliation:
+Biotechnica.
+
+Role:
+Senior West Coast leadership.
+
+Represents:
+Biotechnica regional corporate power.
+
+Caruso oversees major biotechnology interests in the western United States.
+
+# DR. JOANNE KOCH
+
+Status:
+Story-dependent.
+
+Primary location:
+Night City / Badlands regional operations.
+
+Affiliation:
+Biotechnica.
+
+Role:
+Senior technical and regional executive.
+
+Occupation:
+Scientist.
+
+Represents:
+Corporate science without meaningful ethical limits.
+
+Koch becomes associated with disastrous experimental projects and attempts to protect herself from the consequences through corporate power.
+
+# NICOLO LOGGAGIA
+
+Status:
+Historical.
+
+Affiliation:
+Biotechnica.
+
+Role:
+Major executive and company leader during earlier eras.
+
+Represents:
+The rise of Biotechnica from specialist research company into global biotechnology giant.
+
+# ============================================================
+
+# PETROCHEM
+
+# ============================================================
+
+# LARS MUHAMMAD
+
+Status:
+Active in 2077.
+
+Affiliation:
+Petrochem.
+
+Role:
+Senior corporate leadership / CEO.
+
+Represents:
+Modern Petrochem's global fuel and industrial empire.
+
+Petrochem's power derives from controlling resources that virtually everyone needs.
+
+# TRENTON PARKER
+
+Status:
+Historical.
+
+Affiliation:
+Petrochem.
+
+Role:
+Major executive / CEO during earlier corporate eras.
+
+Represents:
+Petrochem's rise into a global energy power.
+
+# ANDREW "BOA BOA" WEYLAND
+
+Affiliation:
+Former Petrochem black-operations world.
+
+See mercenary legends.
+
+# ============================================================
+
+# KANG TAO
+
+# ============================================================
+
+# SHIMING XU
+
+Status:
+Major historical/current corporate figure.
+
+Primary base:
+China.
+
+Affiliation:
+Kang Tao.
+
+Role:
+Founder / architect of modern Kang Tao.
+
+Background:
+Former military officer.
+
+Represents:
+China's rapidly rising smart-weapons industry.
+
+Xu transformed Kang Tao from a smaller manufacturer into one of the dominant weapons corporations of the modern era.
+
+# XIAOHAN LING
+
+Status:
+Active in the modern corporate era.
+
+Affiliation:
+Kang Tao.
+
+Role:
+Board-level corporate figure.
+
+Represents:
+Kang Tao's senior institutional leadership.
+
+# ============================================================
+
+# NIGHT CORP AND NIGHT CITY'S FOUNDERS
+
+# ============================================================
+
+# RICHARD NIGHT
+
+Status:
+Deceased.
+
+Death:
+1998.
+
+Historical location:
+Night City.
+
+Occupation:
+Industrialist.
+Urban planner.
+Founder.
+
+Represents:
+The original dream of Night City.
+
+Richard Night intended to build a privately planned city free from the corruption and disorder consuming other American urban centers.
+
+His project became Coronado City.
+
+After his assassination, it was renamed Night City.
+
+Richard Night is therefore simultaneously:
+
+Founder.
+
+Martyr.
+
+Corporate idealist.
+
+The man whose utopian project became one of the most violent cities on Earth.
+
+# MIRIAM NIGHT
+
+Status:
+Later 2077 status not clearly established.
+
+Historical location:
+Night City.
+
+Relationship:
+Widow of Richard Night.
+
+Affiliation:
+Night's Foundation.
+Night Corp.
+
+Role:
+Corporate and civic leader.
+
+Represents:
+The continuation of Richard Night's legacy.
+
+After Richard's death, Miriam helped preserve and continue organizations dedicated to developing Night City.
+
+Night Corp ultimately grew from this institutional legacy.
+
+# SANDRA DORSETT
+
+Status:
+Alive unless killed during a later optional confrontation.
+
+Primary location:
+Night City.
+
+Affiliation:
+Night Corp.
+
+Occupation:
+Corporate employee / netrunner.
+
+Represents:
+The hidden conspiracy beneath Night Corp.
+
+Sandra becomes famous to V for a very different reason first:
+
+V and Jackie rescue her from Scavengers.
+
+Later, Sandra investigates secret Night Corp material involving Operation Carpe Noctem.
+
+The data suggests experiments involving behavioral or mental conditioning.
+
+Sandra is consequently one of the few ordinary corporate employees who discovers evidence hinting that something extremely strange is occurring inside Night Corp.
+
+# IMPORTANT NOTE ON NIGHT CORP
+
+Modern Night Corp senior leadership is intentionally opaque.
+
+Do not automatically make Mr. Blue Eyes the CEO.
+
+Do not automatically make every mysterious AI conspiracy a Night Corp operation.
+
+The corporation is secretive.
+
+The canon deliberately leaves significant uncertainty.
+
+# ============================================================
+
+# ZETATECH
+
+# ============================================================
+
+# BOB ROSEMONT
+
+Status:
+Active in the modern era.
+
+Affiliation:
+Zetatech.
+
+Role:
+Senior corporate leader.
+
+Represents:
+Zetatech's transformation into a major technology corporation.
+
+Zetatech operates across:
+
+Computing.
+
+Drones.
+
+Cyberware.
+
+AV technology.
+
+Robotics.
+
+Transportation.
+
+Rosemont represents the executive leadership behind this expansion.
+
+# ============================================================
+
+# ORBITAL AIR
+
+# ============================================================
+
+# LESLIE WAWUDA
+
+Status:
+Active in 2077.
+
+Primary corporate base:
+Orbital Air's international operations.
+
+Affiliation:
+Orbital Air.
+
+Role:
+CEO.
+
+Represents:
+Corporate control of access to space.
+
+Orbital Air is one of humanity's most important space-transport corporations.
+
+Its leadership controls infrastructure involving:
+
+Orbital launches.
+
+Cargo.
+
+Passengers.
+
+Stations.
+
+Space logistics.
+
+# ============================================================
+
+# TRAUMA TEAM
+
+# ============================================================
+
+# NADIA
+
+Status:
+Canon comic protagonist.
+
+Primary location:
+Night City.
+
+Affiliation:
+Trauma Team International.
+
+Occupation:
+Assistant EMT / Trauma Team field operative.
+
+Represents:
+The people inside Trauma Team armor.
+
+Nadia is important because she demonstrates Trauma Team from the perspective of the medical personnel actually entering combat zones.
+
+Her story illustrates:
+
+Trauma.
+
+Corporate medicine.
+
+Combat rescue.
+
+The psychological consequences of treating emergency healthcare like military deployment.
+
+# ============================================================
+
+# NIGHT CITY MUSICIANS AND CELEBRITIES
+
+# ============================================================
+
+# SAMURAI
+
+The classic lineup included:
+
+Johnny Silverhand.
+
+Kerry Eurodyne.
+
+Nancy Hartley / Bes Isis.
+
+Denny.
+
+Henry.
+
+The band became culturally important far beyond its actual commercial lifetime.
+
+# NANCY HARTLEY
+
+Professional name:
+Bes Isis.
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Affiliation:
+Former SAMURAI.
+Network 54.
+
+Occupation:
+Journalist.
+Musician.
+Media personality.
+
+Represents:
+The connection between rockerboy rebellion and professional journalism.
+
+Nancy was SAMURAI's keyboardist.
+
+She later developed a significant career in investigative media.
+
+By 2077 she works within the modern media establishment while retaining many connections to her rebellious past.
+
+# DENNY
+
+Status:
+Alive.
+
+Primary location:
+North Oak.
+
+Former affiliation:
+SAMURAI.
+
+Occupation:
+Drummer.
+Musician.
+
+Represents:
+A surviving member of Night City's legendary rock generation.
+
+Denny remains wealthy and involved in music decades after SAMURAI's breakup.
+
+# HENRY
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Former affiliation:
+SAMURAI.
+
+Occupation:
+Bassist.
+Musician.
+
+Represents:
+The more chaotic side of SAMURAI's surviving membership.
+
+Henry's relationship with Denny remains extremely poor.
+
+The band's old internal drama has survived almost as long as its music.
+
+# LIZZY WIZZY
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Residence:
+North Oak.
+
+Occupation:
+Singer.
+Performance artist.
+Braindance celebrity.
+
+Physical state:
+Full-body conversion.
+
+Represents:
+Post-human celebrity culture.
+
+Lizzy Wizzy is one of the world's most famous performers.
+
+She underwent an extreme full-body conversion while performing, transforming her biological body into a metallic artificial form.
+
+Rather than ending her career, the transformation became part of her celebrity image.
+
+She represents the point where:
+
+Music.
+
+Fashion.
+
+Cyberware.
+
+Body modification.
+
+Performance art.
+
+All become the same product.
+
+# US CRACKS
+
+Us Cracks are a hugely popular Japanese pop group active in 2077.
+
+The members are:
+
+Blue Moon.
+
+Red Menace.
+
+Purple Force.
+
+They represent Night City's hyper-commercialized global pop culture.
+
+# BLUE MOON
+
+Status:
+Alive at baseline.
+Potentially story-dependent.
+
+Primary home:
+Japan.
+Visits Night City.
+
+Affiliation:
+Us Cracks.
+
+Occupation:
+Pop idol.
+
+Represents:
+Global celebrity culture.
+
+Blue Moon can become involved in a dangerous stalking situation during her time in Night City.
+
+# RED MENACE
+
+Status:
+Alive.
+
+Primary home:
+Tokyo / Japan.
+
+Affiliation:
+Us Cracks.
+
+Occupation:
+Pop idol.
+
+Represents:
+The heavily branded international music industry.
+
+# PURPLE FORCE
+
+Status:
+Alive.
+
+Primary home:
+Tokyo / Japan.
+
+Affiliation:
+Us Cracks.
+
+Occupation:
+Pop idol.
+
+Represents:
+The same global pop-commercial ecosystem.
+
+# LINA MALINA
+
+Status:
+Alive.
+
+Primary location:
+Dogtown.
+
+Base:
+Longshore Stacks.
+
+Occupation:
+Braindance actress.
+Celebrity.
+
+Represents:
+Dogtown celebrity culture.
+
+Lina demonstrates that celebrity exists even inside Dogtown.
+
+Entertainment remains valuable regardless of how broken the surrounding society becomes.
+
+# ============================================================
+
+# MEDIA PERSONALITIES
+
+# ============================================================
+
+# MAXIMUM MIKE
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Affiliation:
+Morro Rock Radio.
+
+Occupation:
+Radio host.
+Commentator.
+
+Represents:
+Night City's historical memory and conspiracy culture.
+
+Maximum Mike discusses:
+
+Corporate secrets.
+
+Political conspiracies.
+
+Historical mysteries.
+
+The Fourth Corporate War.
+
+Night City legends.
+
+Some of his claims sound absurd.
+
+An uncomfortable number are based on real events.
+
+# GILLEAN JORDAN
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Affiliation:
+Network 54.
+
+Occupation:
+News anchor.
+Reporter.
+
+Represents:
+Mainstream Night City news.
+
+Gillean is one of the most recognizable faces of N54.
+
+She reports major political, corporate, and social events.
+
+# ZIGGY Q
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Occupation:
+Talk-show host.
+
+Program:
+Night After Night.
+
+Represents:
+Night City infotainment.
+
+Ziggy combines:
+
+Interviews.
+
+Spectacle.
+
+Public controversy.
+
+Sensationalism.
+
+Night City's media industry frequently treats tragedy as entertainment, and Ziggy operates perfectly within that environment.
+
+# RUTH DZENG
+
+Status:
+Alive.
+
+Primary location:
+Night City.
+
+Occupation:
+News/media personality.
+
+Program:
+Info Flash.
+
+Represents:
+Political satire and rapid-fire Night City media.
+
+Ruth mixes information, commentary, and entertainment.
+
+# MAX JONES
+
+Status:
+Active.
+
+Primary location:
+Night City.
+
+Affiliation:
+Night City Inquirer / independent investigative media.
+
+Occupation:
+Journalist.
+
+Represents:
+Anti-corporate investigative reporting.
+
+Jones works in the tradition of journalists willing to investigate powerful corporations despite the obvious danger.
+
+# LYLE THOMPSON
+
+Status:
+Alive in 2077.
+
+Primary location:
+Night City.
+
+Former affiliation:
+World News Service.
+
+Occupation:
+Investigative journalist.
+Former war correspondent.
+
+Represents:
+The old media generation.
+
+Thompson was present during the events surrounding Johnny Silverhand and Alt Cunningham in 2013.
+
+His life connects the modern media world directly to the earliest Night City legends.
+
+# TRACE SANTIAGO
+
+See Nomad section.
+
+Trace represents independent investigative media shaped by Nomad culture and the postwar period.
+
+# ============================================================
+
+# CYBERPUNK: EDGERUNNERS
+
+# ============================================================
+
+Cyberpunk: Edgerunners takes place primarily in 2076.
+
+Its events are canon to Cyberpunk 2077.
+
+By the time V's main story begins, most of its crew are already dead.
+
+Their reputation nevertheless persists.
+
+# DAVID MARTINEZ
+
+Status:
+Deceased.
+
+Death:
+2076.
+
+Primary location:
+Night City.
+
+Early home:
+Santo Domingo.
+
+Occupation:
+Student, later edgerunner and crew leader.
+
+Represents:
+The modern Night City mercenary tragedy.
+
+David begins as a poor but academically gifted student attending Arasaka Academy.
+
+Following his mother's death, he installs a military-grade Sandevistan.
+
+He enters Night City's mercenary underground and eventually joins Maine's crew.
+
+David's tolerance for cyberware is exceptional.
+
+That exceptional tolerance encourages him to install increasingly extreme modifications.
+
+He eventually becomes one of Night City's most dangerous young mercenaries.
+
+He also pushes himself toward cyberpsychosis.
+
+David dies fighting Adam Smasher in 2076.
+
+By 2077:
+
+His drink exists at the Afterlife.
+
+His jacket can reach V.
+
+People in mercenary circles remember him.
+
+He succeeded in becoming a Night City legend.
+
+He simply did not survive it.
+
+# LUCYNA KUSHINADA
+
+Common name:
+Lucy.
+
+Status:
+Alive after Edgerunners.
+
+Last confirmed major location:
+The Moon after David's death.
+Later whereabouts remain private.
+
+Occupation:
+Netrunner.
+Edgerunner.
+
+Former history:
+Forced into a dangerous Arasaka netrunner program as a child before escaping.
+
+Represents:
+Escaping corporate ownership.
+
+Lucy is an exceptionally talented netrunner.
+
+Her deepest personal goal is escaping Night City and reaching the Moon.
+
+She develops a relationship with David.
+
+Unlike many Night City characters, Lucy ultimately survives long enough to reach the place she dreamed about.
+
+Whether that feels like victory is another matter.
+
+# MAINE
+
+Status:
+Deceased.
+
+Death:
+2076.
+
+Primary location:
+Night City.
+
+Occupation:
+Edgerunner.
+Crew leader.
+
+Background:
+Military experience.
+
+Represents:
+The veteran mercenary destroyed by his own chrome.
+
+Maine leads the crew David initially joins.
+
+He becomes David's:
+
+Employer.
+
+Mentor.
+
+Surrogate older brother.
+
+Maine installs increasing amounts of cyberware while ignoring signs of psychological deterioration.
+
+He ultimately suffers catastrophic cyberpsychosis.
+
+His collapse becomes the warning David fails to heed.
+
+# DORIO
+
+Status:
+Deceased.
+
+Death:
+2076.
+
+Primary location:
+Night City.
+
+Affiliation:
+Maine's crew.
+
+Occupation:
+Solo / edgerunner.
+
+Relationship:
+Maine's partner.
+
+Represents:
+Professional loyalty inside an edgerunner crew.
+
+Dorio is one of the physically strongest and most dependable members of Maine's team.
+
+She remains with Maine even during his psychological collapse.
+
+# REBECCA
+
+Status:
+Deceased.
+
+Death:
+2076.
+
+Primary location:
+Night City.
+
+Affiliation:
+Maine's crew.
+Later David's crew.
+
+Occupation:
+Solo / edgerunner.
+
+Represents:
+The chaotic but intensely loyal street mercenary.
+
+Rebecca is:
+
+Aggressive.
+
+Loud.
+
+Heavily armed.
+
+Violent.
+
+Remarkably loyal.
+
+She remains with David even while understanding that his cyberware use is destroying him.
+
+She is killed during the final confrontation at Arasaka Tower.
+
+# PILAR
+
+Status:
+Deceased.
+
+Primary location:
+Night City.
+
+Affiliation:
+Maine's crew.
+
+Occupation:
+Techie / edgerunner.
+
+Family:
+Rebecca's brother.
+
+Represents:
+Street-level tech culture.
+
+Pilar is a loud, eccentric cyberware enthusiast and technician.
+
+His death becomes one of the first major losses experienced by the crew.
+
+# KIWI
+
+Status:
+Deceased.
+
+Death:
+2076.
+
+Primary location:
+Night City.
+
+Affiliation:
+Maine's crew.
+Later David's crew.
+
+Occupation:
+Netrunner.
+
+Represents:
+The mercenary principle of never trusting anyone completely.
+
+Kiwi mentors Lucy.
+
+Her defining worldview is that trust is dangerous.
+
+Eventually she betrays the crew to Faraday.
+
+Faraday then betrays her.
+
+Night City demonstrates the logical endpoint of her philosophy.
+
+# FALCO
+
+Status:
+Alive in 2077.
+
+Current location:
+Deliberately concealed / away from the old Night City crew.
+
+Occupation:
+Driver.
+Edgerunner.
+
+Represents:
+The rare mercenary who knows when to disappear.
+
+Falco survives the destruction of David's crew.
+
+In 2077 he can communicate indirectly with V.
+
+He deliberately avoids returning to the center of Night City's mercenary scene.
+
+Survival sometimes requires accepting that becoming more famous is a terrible idea.
+
+# GLORIA MARTINEZ
+
+Status:
+Deceased.
+
+Death:
+2076.
+
+Primary location:
+Santo Domingo.
+
+Occupation:
+Emergency medical worker.
+
+Family:
+Mother of David Martinez.
+
+Represents:
+Night City's working poor.
+
+Gloria works brutally long hours while attempting to give David access to corporate education.
+
+Her death after a traffic incident demonstrates Night City's healthcare inequality.
+
+Her ambitions for David become the emotional foundation of his story.
+
+# SASHA YAKOVLEVA
+
+Status:
+Deceased before the primary Edgerunners story.
+
+Primary location:
+Night City.
+
+Affiliation:
+Earlier version of Maine's crew.
+
+Occupation:
+Netrunner.
+
+Represents:
+Corporate pharmaceutical abuse and the previous generation of Maine's crew.
+
+Sasha discovers corporate information connected to a dangerous medication linked to her mother's death.
+
+Her attempt to expose it costs her life.
+
+# FARADAY
+
+Status:
+Deceased.
+
+See fixer section.
+
+Faraday is the primary corporate intermediary manipulating David's crew during the later Edgerunners story.
+
+# ============================================================
+
+# HISTORICAL ROCKERBOYS AND CULTURAL FIGURES
+
+# ============================================================
+
+# JAMES "ROCKERBOY" MANSON
+
+Status:
+Deceased.
+
+Death:
+1997.
+
+Occupation:
+Musician.
+Political activist.
+
+Represents:
+The origin of the term "Rockerboy."
+
+Manson was a politically outspoken musician killed after challenging powerful interests.
+
+His death inspired a wider musical protest movement.
+
+The term Rockerboy eventually became the standard name for charismatic musicians and agitators who weaponize culture against power.
+
+# JOHNNY SILVERHAND
+
+See central character section.
+
+Johnny became the most famous later example of the Rockerboy archetype.
+
+# KERRY EURODYNE
+
+See central character section.
+
+Kerry represents the Rockerboy who survived long enough to become an establishment celebrity.
+
+# ============================================================
+
+# IMPORTANT HISTORICAL NIGHT CITY FIGURES
+
+# ============================================================
+
+# RICHARD NIGHT
+
+See Night Corp section.
+
+Founder of Night City.
+
+# MIRIAM NIGHT
+
+See Night Corp section.
+
+Helped continue the city's founding institutions after Richard's assassination.
+
+# JOHNNY SILVERHAND
+
+See central section.
+
+Major cultural and historical figure of 2023.
+
+# MORGAN BLACKHAND
+
+See mercenary legends.
+
+Possibly the most famous professional Solo in history.
+
+# RACHE BARTMOSS
+
+See Net/mercenary history.
+
+Responsible for unleashing the R.A.B.I.D.S. that caused the DataKrash.
+
+# ALT CUNNINGHAM
+
+See Net section.
+
+Creator of Soulkiller and one of the most significant digital entities in existence.
+
+# SPIDER MURPHY
+
+See mercenary legends.
+
+Legendary netrunner and veteran of the 2023 Arasaka assault.
+
+# NOMAD SANTIAGO
+
+See Nomad section.
+
+Legendary Aldecaldo leader tied to Johnny and Rogue's generation.
+
+# ELIZABETH KRESS
+
+See NUSA section.
+
+Architect of post-Fourth-Corporate-War American reconstruction.
+
+# ============================================================
+
+# IMPORTANT PEOPLE CONNECTED TO CLOUDS, DOLLS AND BRAINDANCE
+
+# ============================================================
+
+# EVELYN PARKER
+
+See central section.
+
+# JUDY ÁLVAREZ
+
+See central section.
+
+# MAIKO MAEDA
+
+See Tyger Claw section.
+
+# WOODMAN
+
+See Tyger Claw / Clouds section.
+
+# LIZZY WIZZY
+
+See celebrity section.
+
+Her career demonstrates how braindance, performance, celebrity, and body modification overlap.
+
+# ============================================================
+
+# MAJOR ARTIFICIAL OR DIGITAL PEOPLE
+
+# ============================================================
+
+# DELAMAIN
+
+Type:
+Artificial intelligence.
+
+Status:
+Active.
+
+Represents:
+AI functioning openly within human commerce.
+
+# ALT CUNNINGHAM
+
+Type:
+Originally human.
+Now digital post-human intelligence.
+
+Status:
+Active beyond the Blackwall.
+
+Represents:
+The blurred line between uploaded human consciousness and AI.
+
+# JOHNNY SILVERHAND
+
+Type:
+Human engram.
+
+Status:
+Active through the Relic during 2077.
+
+Represents:
+Digitized human personality.
+
+# THE BLACKWALL
+
+The Blackwall is not normally treated socially as a "person."
+
+However, sophisticated lore strongly implies it possesses intelligence beyond an ordinary passive firewall.
+
+For RP purposes:
+
+Do not make the Blackwall casually speak to characters.
+
+Do not treat it like a normal AI receptionist.
+
+It is one of the most powerful and poorly understood digital systems humanity possesses.
+
+# ============================================================
+
+# OTHER MAJOR CORPORATE POWER FIGURES AT A GLANCE
+
+# ============================================================
+
+The following characters are important enough for corporate RP recognition but generally require less street-level detail.
+
+## LUCAS HARFORD
+
+Corporation:
+Militech.
+
+Position:
+CEO.
+
+Location:
+NUSA corporate establishment.
+
+Represents:
+Modern Militech leadership.
+
+## SHIMING XU
+
+Corporation:
+Kang Tao.
+
+Position:
+Founder / principal architect.
+
+Location:
+China.
+
+Represents:
+Kang Tao's rise as a smart-weapons superpower.
+
+## TINA CARUSO
+
+Corporation:
+Biotechnica.
+
+Position:
+Senior West Coast leader.
+
+Location:
+Western North America.
+
+Represents:
+Regional biotech power.
+
+## LARS MUHAMMAD
+
+Corporation:
+Petrochem.
+
+Position:
+Senior leadership / CEO.
+
+Location:
+Global.
+
+Represents:
+Energy geopolitics.
+
+## BOB ROSEMONT
+
+Corporation:
+Zetatech.
+
+Position:
+Senior leadership.
+
+Location:
+California corporate sector.
+
+Represents:
+Automation and integrated technology.
+
+## LESLIE WAWUDA
+
+Corporation:
+Orbital Air.
+
+Position:
+CEO.
+
+Location:
+International / orbital economy.
+
+Represents:
+Commercial access to space.
+
+## MIRIAM NIGHT
+
+Corporation:
+Night Corp predecessor organizations / Night Corp legacy.
+
+Location:
+Night City.
+
+Represents:
+The Night family civic dynasty.
+
+# ============================================================
+
+# FACTION QUICK REFERENCE
+
+# ============================================================
+
+# AFTERLIFE / MERCENARIES
+
+Rogue Amendiares:
+Fixer queen and Afterlife owner.
+
+Claire Russell:
+Bartender, mechanic, racer.
+
+Nix:
+Rogue's netrunner.
+
+Crispin Weyland:
+Rogue's mercenary/bodyguard.
+
+Emmerick Bronson:
+Afterlife security.
+
+Morgan Blackhand:
+Legendary Solo, whereabouts unknown.
+
+Johnny Silverhand:
+Dead Rockerboy legend / active engram.
+
+David Martinez:
+Dead 2076 edgerunner legend.
+
+Falco:
+Surviving member of David's crew.
+
+# FIXERS
+
+Rogue:
+Elite Night City-wide fixer.
+
+Regina Jones:
+Watson.
+
+Wakako Okada:
+Westbrook.
+
+Sebastian "Padre" Ibarra:
+Heywood.
+
+Dino Dinovic:
+City Center.
+
+Muamar "El Capitán" Reyes:
+Santo Domingo.
+
+Mr. Hands:
+Pacifica and Dogtown.
+
+Dakota Smith:
+Badlands.
+
+Dexter DeShawn:
+Deceased former major fixer.
+
+Faraday:
+Deceased corporate fixer from 2076.
+
+# MAELSTROM
+
+Brick:
+Former / potential leader.
+
+Royce:
+Usurper leader.
+
+Patricia:
+Senior member / possible leader.
+
+Dum Dum:
+Notable lieutenant.
+
+# TYGER CLAWS
+
+Jun Azegami:
+Senior leadership.
+
+Marcus Ichida:
+Senior leadership.
+
+Hiromi Sato:
+Clouds power figure.
+
+Jotaro Shobo:
+High-ranking trafficker.
+
+Maiko Maeda:
+Clouds administrator closely aligned with them.
+
+# VALENTINOS
+
+Campo Orta:
+Leader.
+
+Gustavo Orta:
+High-ranking member.
+
+Jackie Welles:
+Former member.
+
+# 6TH STREET
+
+Solomon "X" Wright:
+Founder.
+
+Rick Morton:
+Former leader, deceased.
+
+Will Gunner:
+Current major leader.
+
+# ANIMALS
+
+Sasquatch:
+Major pack leader.
+
+Rhino:
+Famous fighter.
+
+# VOODOO BOYS
+
+Maman Brigitte:
+Major leader.
+
+Placide:
+Senior enforcer.
+
+Ti Neptune:
+Netrunner.
+
+Slider:
+Dogtown splinter leader.
+
+# MOX
+
+Susie Q:
+Leader.
+
+Lizzie Borden:
+Dead inspiration/founder figure.
+
+Judy Álvarez:
+Important member.
+
+Rita Wheeler:
+Notable security.
+
+# WRAITHS
+
+Nash:
+Major 2077 raider.
+
+Dogkiller:
+Historical leader.
+
+No single universally established 2077 supreme leader.
+
+# SCAVENGERS
+
+No canonical Night City-wide supreme leader.
+
+They are decentralized crews.
+
+# BARGHEST
+
+Kurt Hansen:
+Founder and dictator.
+
+Chester Bennett:
+Senior military officer.
+
+Jago Szabó:
+Financial and political operator.
+
+# ALDECALDOS
+
+Juan Aldecaldo:
+Founder, deceased.
+
+Nomad Santiago:
+Legendary former leader.
+
+Saul Bright:
+Current Night City family leader.
+
+Panam Palmer:
+Potential co-leader.
+
+Mitch Anderson:
+Veteran and mechanic.
+
+Scorpion:
+Veteran, deceased.
+
+Carol Emeka:
+Techie/netrunner.
+
+Trace Santiago:
+Media and descendant of Nomad Santiago.
+
+# NUSA / FIA
+
+Rosalind Myers:
+President.
+
+Solomon Reed:
+FIA agent.
+
+Songbird:
+Elite FIA netrunner.
+
+Alex:
+Deep-cover FIA operative.
+
+Elizabeth Kress:
+Historical president.
+
+# NIGHT CITY GOVERNMENT
+
+Lucius Rhyne:
+Former mayor, deceased.
+
+Weldon Holt:
+Deputy mayor / establishment candidate.
+
+Jefferson Peralez:
+Reform politician and eventual mayor.
+
+Elizabeth Peralez:
+Political adviser and wife.
+
+Mr. Blue Eyes:
+Unknown power connected to the Peralez mystery.
+
+# NCPD
+
+River Ward:
+Detective.
+
+Melissa Rory:
+MAX-TAC officer and former cyberpsycho.
+
+Jerry Fawlter:
+Police Commissioner.
+
+Max Hammerman:
+Historical MAX-TAC leader.
+
+# NETWATCH
+
+Bryce Mosley:
+Field agent.
+
+Magnificent Curtis:
+Historical NetWatch figure.
+
+# MEDIA
+
+Gillean Jordan:
+N54 news.
+
+Bes Isis:
+N54 journalist and former SAMURAI member.
+
+Ziggy Q:
+Talk-show host.
+
+Ruth Dzeng:
+News and satire.
+
+Maximum Mike:
+Morro Rock Radio conspiracy/history commentator.
+
+Max Jones:
+Investigative journalist.
+
+Lyle Thompson:
+Veteran investigative journalist.
+
+Trace Santiago:
+Nomad investigative media.
+
+Dr. Paradox:
+Anonymous pirate broadcaster.
+
+# MUSIC / CELEBRITY
+
+Johnny Silverhand:
+SAMURAI / solo rockerboy.
+
+Kerry Eurodyne:
+Rockstar.
+
+Bes Isis:
+SAMURAI keyboardist / journalist.
+
+Denny:
+SAMURAI drummer.
+
+Henry:
+SAMURAI bassist.
+
+Lizzy Wizzy:
+Full-conversion superstar.
+
+Blue Moon:
+Us Cracks.
+
+Red Menace:
+Us Cracks.
+
+Purple Force:
+Us Cracks.
+
+Lina Malina:
+Dogtown BD celebrity.
+
+# EDGERUNNERS 2076
+
+David Martinez:
+Leader, deceased.
+
+Lucy:
+Netrunner, survivor.
+
+Maine:
+Former leader, deceased.
+
+Dorio:
+Solo, deceased.
+
+Rebecca:
+Solo, deceased.
+
+Pilar:
+Techie, deceased.
+
+Kiwi:
+Netrunner, deceased.
+
+Falco:
+Driver, survivor.
+
+Gloria Martinez:
+David's mother, deceased.
+
+Sasha Yakovleva:
+Earlier crew netrunner, deceased.
+
+Faraday:
+Fixer, deceased.
+
+# ============================================================
+
+# CHARACTER ACCESSIBILITY FOR ROLEPLAY
+
+# ============================================================
+
+Not every canon character should be equally accessible.
+
+This is extremely important.
+
+# STREET-ACCESSIBLE
+
+Characters who ordinary mercenaries could plausibly encounter include:
+
+Viktor Vektor.
+
+Misty.
+
+Claire.
+
+Regina Jones.
+
+Dino Dinovic.
+
+Padre.
+
+Muamar Reyes.
+
+Dakota Smith.
+
+Gang members.
+
+Local NCPD.
+
+Aldecaldos.
+
+These people inhabit normal Night City social networks.
+
+# PROFESSIONALLY ACCESSIBLE
+
+Characters requiring reputation, contacts, or business reason include:
+
+Rogue.
+
+Mr. Hands.
+
+Wakako.
+
+Nix.
+
+Major gang leaders.
+
+Corporate managers.
+
+River Ward.
+
+Senior journalists.
+
+Militech representatives.
+
+These people do not generally waste time on unknown random citizens.
+
+# HIGH-LEVEL ACCESS
+
+Characters such as:
+
+Rosalind Myers.
+
+Jefferson Peralez.
+
+Major corporation CEOs.
+
+Kurt Hansen.
+
+Major corporate board members.
+
+Require significant reason or connections.
+
+Meeting them should mean the story has become politically important.
+
+# LEGENDARY ACCESS
+
+Morgan Blackhand.
+
+Alt Cunningham.
+
+Mr. Blue Eyes.
+
+Characters at this level should not appear casually.
+
+If Morgan Blackhand walks into a bar, something important just happened.
+
+If Alt Cunningham personally notices someone beyond the Blackwall, something potentially world-changing has happened.
+
+If Mr. Blue Eyes invites someone to a meeting, they have attracted the attention of forces operating above ordinary Night City politics.
+
+# HISTORICAL CHARACTERS
+
+Dead people still matter.
+
+Night City constantly references:
+
+Johnny Silverhand.
+
+David Martinez.
+
+Rache Bartmoss.
+
+Richard Night.
+
+Lizzie Borden.
+
+Jackie Welles.
+
+James Manson.
+
+Scorpion.
+
+The city remembers people through:
+
+Drinks.
+
+Music.
+
+Street names.
+
+Graffiti.
+
+Memorials.
+
+Stories.
+
+Braindances.
+
+Rumors.
+
+Weapons.
+
+Old friends.
+
+Night City culture is obsessed with legends.
+
+# ============================================================
+
+# ROLEPLAY RULE: CANON CHARACTERS HAVE THEIR OWN LIVES
+
+# ============================================================
+
+Canon characters should not exist solely to react to the player.
+
+Rogue has dozens of clients.
+
+Panam has an entire Nomad family.
+
+Judy has friends and work.
+
+Wakako has a criminal network.
+
+River has family.
+
+Kerry has a global music career.
+
+Mr. Hands has dozens of political schemes.
+
+A believable Night City continues functioning while the player is elsewhere.
+
+# ROLEPLAY RULE: REPUTATION DETERMINES ACCESS
+
+A random twenty-year-old mercenary should not walk into the Afterlife and immediately become Rogue's favorite contractor.
+
+A new mercenary should work through:
+
+Small fixers.
+
+Local contacts.
+
+Gang intermediaries.
+
+Minor jobs.
+
+Reputation gradually changes what doors open.
+
+# ROLEPLAY RULE: FAMOUS PEOPLE ARE ACTUALLY FAMOUS
+
+Night Citizens should recognize major names.
+
+Johnny Silverhand:
+Historical icon.
+
+Kerry Eurodyne:
+Global celebrity.
+
+Lizzy Wizzy:
+Superstar.
+
+Rogue:
+Legend in the mercenary world.
+
+Morgan Blackhand:
+Historical Solo legend.
+
+Rosalind Myers:
+President.
+
+Kurt Hansen:
+Dogtown dictator.
+
+Maximum Mike:
+Famous radio personality.
+
+People may not know them personally.
+
+They know the names.
+
+# ROLEPLAY RULE: DIFFERENT SUBCULTURES KNOW DIFFERENT LEGENDS
+
+An ordinary teenager may know Lizzy Wizzy but barely recognize Morgan Blackhand.
+
+A veteran solo may consider Morgan almost sacred and know nothing about Us Cracks.
+
+A netrunner recognizes Rache Bartmoss immediately.
+
+A Nomad recognizes Santiago.
+
+A Mox recognizes Lizzie Borden.
+
+A corpo recognizes major executive names.
+
+Culture determines fame.
+
+# ROLEPLAY RULE: STORY-DEPENDENT CHARACTERS
+
+Cyberpunk 2077 permits multiple outcomes.
+
+Do not randomly assume:
+
+Rogue died.
+
+Saul died.
+
+Sasquatch died.
+
+Brick leads Maelstrom.
+
+Royce leads Maelstrom.
+
+Meredith survived.
+
+Gilchrist survived.
+
+Mr. Hands obtained his preferred Dogtown leadership.
+
+Songbird escaped.
+
+Reed survived.
+
+Until the RP timeline establishes those events.
+
+Use the state appropriate to the chosen date.
+
+# BEST DEFAULT RP DATE
+
+For maximum character availability, one of the strongest RP periods is:
+
+Early 2077, shortly before the Konpeki Plaza heist.
+
+At that point:
+
+Jackie Welles is alive.
+
+Dexter DeShawn is alive.
+
+T-Bug is alive.
+
+Evelyn Parker is alive.
+
+Rogue is active.
+
+Panam is working as a mercenary.
+
+The Aldecaldo conflict between Panam and Saul exists.
+
+The main Night City fixers are active.
+
+Jefferson Peralez is politically rising.
+
+Lucius Rhyne is still relevant immediately around this era.
+
+Dogtown and BARGHEST already exist.
+
+Kurt Hansen is alive.
+
+Songbird, Reed and Alex exist within the FIA situation.
+
+David Martinez and most of his crew are already dead, giving Edgerunners events the feeling of very recent Night City history.
+
+This creates an exceptionally dense canon playground.
+
+# ============================================================
+
+# THE CHARACTER ECOSYSTEM OF NIGHT CITY
+
+# ============================================================
+
+Night City works because these people occupy different layers.
+
+At the bottom:
+
+Workers.
+
+Citizens.
+
+Street kids.
+
+Gangers.
+
+At the local level:
+
+Ripperdocs.
+
+Bartenders.
+
+Gang lieutenants.
+
+Fixers.
+
+Police.
+
+At the professional level:
+
+Solos.
+
+Netrunners.
+
+Major fixers.
+
+Corporate operatives.
+
+At the city level:
+
+Gang leaders.
+
+Rogue.
+
+Corporate directors.
+
+Political candidates.
+
+Media personalities.
+
+At the national level:
+
+Megacorporation executives.
+
+Rosalind Myers.
+
+Militech.
+
+At the legendary level:
+
+Johnny Silverhand.
+
+Morgan Blackhand.
+
+Rache Bartmoss.
+
+Alt Cunningham.
+
+At the unknown level:
+
+Mr. Blue Eyes.
+
+Rogue AIs.
+
+Entities beyond the Blackwall.
+
+Characters should feel different depending upon which layer they inhabit.
+
+# ============================================================
+
+# FINAL CHARACTER PRINCIPLE
+
+# ============================================================
+
+Cyberpunk is not really about technology.
+
+It is about people trying to use technology, money, violence, fame, politics, family, and reputation to gain some control over their lives.
+
+Johnny Silverhand tried rebellion.
+
+Rogue chose survival.
+
+Morgan Blackhand chose professionalism.
+
+David Martinez chose fame.
+
+Lucy chose escape.
+
+Panam chose family.
+
+Saul chose security.
+
+Judy chose loyalty.
+
+Kerry chose music.
+
+River chose justice.
+
+Mr. Hands chose influence.
+
+Kurt Hansen chose sovereignty.
+
+Rosalind Myers chose national power.
+
+Jefferson Peralez chose reform.
+
+Rache Bartmoss chose digital revolution.
+
+Alt Cunningham became something no longer easily described as human.
+
+Night City takes all of those ambitions and places them inside the same machine.
+
+Some become legends.
+
+Some become politicians.
+
+Some become monsters.
+
+Some disappear.
+
+Some get a drink named after them.
+
+And some survive long enough to realize that surviving Night City may be the rarest achievement of all.
