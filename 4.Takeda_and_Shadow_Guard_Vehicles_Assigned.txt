@@ -1,0 +1,809 @@
+# TAKEDA ARASAKA
+
+## Personal Vehicles, Strategic Transport, and Shirogane Guard Escort Fleet
+
+Takeda Arasaka does not travel like an ordinary Arasaka executive.
+
+At 7ft 6 with an enormously dense trans-human frame, extreme skeletal reinforcement, cybernetics, and significantly greater body mass than a baseline human of comparable height, most civilian vehicles are physically unsuitable for him. Standard executive cars are cramped, many armored limousines lack sufficient reinforced seating, and ordinary AV interiors were never designed around someone of Takeda’s proportions.
+
+More importantly, Takeda is the Supreme-Commander of Arasaka.
+
+His transportation is therefore designed around three requirements:
+
+**His exceptional physical size.**
+
+**His strategic importance to Arasaka.**
+
+**The assumption that somebody, somewhere, is always considering how to kill him.**
+
+Following the assassination attempt of 2070, Takeda’s transportation doctrine became extraordinarily defensive. His vehicles are not merely armored. They are mobile command bunkers surrounded by layered escorts, countermeasures, electronic warfare systems, drones, and Shirogane Guard personnel.
+
+Takeda’s preferred transport is his custom-built personal AV.
+
+---
+
+# AMATERASU
+
+## Takeda Arasaka’s Personal Command AV
+
+**Official Designation:** Arasaka AV-XC/01 Strategic Executive Command Aerodyne
+**Personal Name:** Amaterasu
+**Japanese:** 天照
+**Meaning:** Named for Amaterasu Ōmikami, the Shinto sun deity
+**Primary User:** Supreme-Commander Takeda Arasaka
+**Role:** Personal transport, mobile command center, armored extraction platform
+**Classification:** Supreme-Commander Restricted
+
+Amaterasu is a completely custom-built Arasaka aerodyne designed specifically around Takeda’s body, security requirements, and command authority.
+
+It is substantially larger than a standard corporate executive AV.
+
+The passenger compartment was engineered from the beginning around Takeda rather than being adapted after construction. He can stand upright inside without stooping, move comfortably through the central compartment, sit without forcing his shoulders inward, and wear portions of heavy combat equipment without making the cabin unusable.
+
+The floor, seating mounts, restraint systems, and internal frame are all reinforced for his weight.
+
+His primary command seat resembles less a luxury chair and more a compact command throne integrated into the aircraft.
+
+It includes:
+
+* reinforced structural mounting
+* oversized crash restraints
+* neural command interface
+* tactical displays
+* encrypted Arasaka communications
+* live battlefield feeds
+* biometric monitoring
+* direct access to military command networks
+* emergency cyberware diagnostics
+
+Takeda can command Arasaka military formations from Amaterasu exactly as he could from a fortified command post.
+
+## Exterior Design
+
+Amaterasu is enormous by executive AV standards.
+
+Its body is broad, angular, and unmistakably Arasaka. Matte black armor dominates the exterior, broken only by restrained red Arasaka markings and the personal insignia of the Supreme-Commander.
+
+It is deliberately not subtle.
+
+Takeda does not believe his personal command vehicle should look afraid.
+
+The aircraft has a predatory, almost shrine-like silhouette with heavily armored engine housings and recessed weapon apertures. Its armored windows are minimal and can be electronically blacked out completely.
+
+When operating at night above Night City, Amaterasu resembles a black airborne fortress passing between towers.
+
+Most citizens never see it closely.
+
+They hear it first.
+
+---
+
+# Protection Systems
+
+Amaterasu is one of the most heavily protected non-frontline vehicles operated by Arasaka.
+
+Its defensive systems are deliberately excessive.
+
+The aircraft is built under the assumption that an attack may involve military-grade weapons rather than street-level criminals.
+
+Its defenses include:
+
+* multilayer composite armor
+* reinforced titanium-ceramic structural frame
+* ballistic internal bulkheads
+* explosive-resistant passenger compartment
+* redundant flight-control systems
+* independent emergency power systems
+* EMP shielding
+* cyberwarfare isolation
+* encrypted navigation
+* anti-hijacking systems
+* fire suppression
+* chemical and biological filtration
+* sealed emergency atmosphere
+* automatic trauma-response equipment
+* redundant engine systems
+* armored fuel and energy systems
+* self-sealing hydraulic architecture
+* active missile-warning systems
+* radar and optical threat detection
+* infrared countermeasures
+* electronic countermeasures
+* decoy deployment systems
+* anti-drone defenses
+* automated defensive turrets
+* interceptor drones
+* hostile-target tracking
+
+The cabin itself functions as an armored survival cell.
+
+Even if the exterior of the AV is badly damaged, Takeda’s compartment is designed to remain structurally intact long enough for extraction.
+
+The aircraft can continue operating after losing systems that would immediately cripple an ordinary executive AV.
+
+---
+
+# Active Defensive Systems
+
+Amaterasu does not rely solely on armor.
+
+Its philosophy is that the best incoming weapon is the one that never reaches the hull.
+
+The AV carries automated defensive systems capable of identifying incoming drones, missiles, hostile aircraft, suspicious targeting systems, and nearby weapons fire.
+
+Its electronic warfare suite can disrupt:
+
+* hostile targeting
+* drone guidance
+* remote detonators
+* communications
+* tracking systems
+* unauthorized network intrusion
+
+Major Emi Takahara retains authority over the convoy’s electronic protection from the dedicated Fujin electronic-warfare AV, while Amaterasu carries its own cleared onboard systems officer for immediate local control. Takahara can take direct control of Amaterasu’s defensive network through an isolated command link if the convoy comes under cyberattack.
+
+The AV also deploys small defensive drones that can form a moving surveillance perimeter around the aircraft.
+
+These drones scout rooftops, monitor traffic corridors, inspect approaching AVs, and identify potential ambush positions before Amaterasu reaches them.
+
+---
+
+# Offensive Capability
+
+Although officially classified as a transport and command AV, Amaterasu possesses enough weaponry to defend itself against serious attacks.
+
+Its armament is largely concealed behind armored panels.
+
+Depending on mission configuration, it may carry:
+
+* retractable smart-gun systems
+* anti-drone weapons
+* precision defensive missiles
+* electronic warfare emitters
+* automated close-defense weapons
+
+Takeda does not use Amaterasu as a gunship unless circumstances demand it.
+
+If the Supreme-Commander’s personal transport is actively engaging enemy formations, the security situation has already deteriorated dramatically.
+
+---
+
+# Interior
+
+The interior is deliberately restrained rather than decadent.
+
+Takeda dislikes excessive luxury in military-adjacent equipment.
+
+The cabin uses black materials, dark wood, armored composite surfaces, and subdued Arasaka detailing.
+
+The main compartment contains Takeda’s oversized command seat, several normal passenger positions, communications stations, and an emergency medical bay.
+
+There is enough room for several Shirogane Guard operators to remain with him.
+
+However, not all members of the Guard can travel aboard Amaterasu.
+
+That would defeat the point of layered protection.
+
+Takeda’s security detail therefore travels as a formation.
+
+## Standard Shirogane Detail Aboard Amaterasu
+
+When the full 24-member Shirogane Guard deploys with Takeda, Amaterasu carries the six operators who form his immediate protective nucleus:
+
+**Colonel Daichi Kurosawa — Captain of the Shirogane Guard**  
+Overall protective commander. Kurosawa remains physically close to Takeda and directs the entire moving formation from Amaterasu.
+
+**Major Kenji Morimoto — Commander, Close Protection Section**  
+Controls the immediate bodyguard bubble inside and around the aircraft during embarkation, landing, and emergency extraction.
+
+**Captain Ryuji Sato — Senior Close Protection Officer**  
+Primary right-side protector and one of the first operators off the aircraft when Takeda disembarks.
+
+**Captain Natsumi Arai — Close Protection Officer**  
+Monitors passengers, receiving parties, body language, and concealed close-range threats.
+
+**First Lieutenant Takeshi Okada — Close Protection Officer**  
+Rear protection and heavy close-quarters response.
+
+**First Lieutenant Yuna Matsuda — Close Protection Officer**  
+Forward movement, emergency extraction, and transition between aircraft and secure structures.
+
+These six are not the aircraft’s flight crew. Amaterasu is flown and maintained by a separate Supreme-Commander-cleared Arasaka aviation crew outside the 24 core Shirogane operators.
+
+Adam Smasher, when assigned directly to Takeda, is additional to this roster and does not replace a Shirogane position.
+
+---
+
+# THE SHIROGANE AERIAL ESCORT
+
+The Shirogane Guard operates a dedicated fleet of escort AVs whenever Takeda moves through high-risk territory.
+
+These vehicles maintain the same cruising and emergency speeds as Amaterasu and are networked into its command system.
+
+A typical convoy consists of:
+
+**Amaterasu at the protected center.**
+
+**Two forward escort AVs.**
+
+**Two rear escort AVs.**
+
+**One electronic warfare and counter-surveillance AV.**
+
+**One medical and recovery AV.**
+
+The exact formation changes constantly to prevent predictable movement patterns.
+
+In especially dangerous circumstances, additional Arasaka combat AVs may join the formation.
+
+---
+
+# SUSANOO-CLASS ESCORT AV
+
+## Shirogane Guard Heavy Protective Aerodyne
+
+**Japanese:** 須佐之男
+**Meaning:** Susanoo, storm deity and warrior figure
+**Role:** Heavy armed escort
+**Typical Number:** Four
+
+The Susanoo-class AV is the main aerial escort of the Shirogane Guard.
+
+It is smaller than Amaterasu but considerably more aggressive.
+
+Each Susanoo can carry approximately six to eight fully equipped protective personnel depending on loadout. During a standard full-strength Supreme-Commander movement, three of those seats are occupied by core Shirogane operators, while the remaining capacity is used by dedicated pilots, gunners, technicians, or auxiliary Arasaka protective troops outside the 24-member core.
+
+The aircraft are designed to remain close enough to Takeda’s AV to intervene within seconds.
+
+Their functions include:
+
+* intercepting hostile aircraft
+* blocking attack vectors
+* deploying Shirogane assault teams
+* countering drones
+* suppressing ground threats
+* covering emergency extraction
+* physically shielding Amaterasu when necessary
+
+Their crews train specifically in protective formation flying.
+
+If an incoming attack cannot be avoided, a Susanoo pilot is expected to place their own aircraft between the threat and Amaterasu.
+
+Takeda strongly dislikes wasteful sacrifice, but this remains part of the unit’s emergency doctrine.
+
+## The Four Susanoo Escort AVs and Assigned Core Operators
+
+### Susanoo One — RAIKŌ
+**Japanese:** 雷光  
+**Meaning:** “Lightning Flash”  
+**Formation Position:** Forward reconnaissance and advance-security spearhead
+
+**Major Ayame Kisaragi — Commander, Advance Security Section**  
+Mission commander aboard Raikō. She controls advance clearance and arrival-site security.
+
+**Captain Sora Hayashi — Senior Advance Officer**  
+Coordinates landing zones, entry points, safe rooms, and emergency diversion sites.
+
+**Lieutenant Sayaka Ito — Reconnaissance and Surveillance Specialist**  
+Controls drone reconnaissance, optical surveillance, and predictive threat detection.
+
+Raikō normally flies ahead of Amaterasu and is often the first core Shirogane aircraft to reach the destination.
+
+### Susanoo Two — HACHIMAN
+**Japanese:** 八幡  
+**Meaning:** Named for Hachiman, deity associated with warriors and war  
+**Formation Position:** Forward overwatch, counter-sniper, and route-control escort
+
+**First Lieutenant Renji Nakamura — Counter-Sniper Team Leader**  
+Controls long-range overwatch and hostile firing-position identification.
+
+**Lieutenant Taro Uesugi — Route Security Specialist**  
+Monitors flight corridors, alternate landing routes, choke points, and ambush geometry.
+
+**Lieutenant Koji Ishikawa — Close Protection Officer**  
+Acts as the bridge between advance security and Takeda’s close-protection section, with particular attention to suspicious personnel at arrival sites.
+
+Hachiman frequently offsets above or ahead of Amaterasu, giving Renji and Taro the widest possible view of the route.
+
+### Susanoo Three — RAIDEN
+**Japanese:** 雷電  
+**Meaning:** “Thunder and Lightning”  
+**Formation Position:** Heavy interception and counter-assault escort
+
+**Major Haruto Nishikawa — Commander, Counter-Assault Section**  
+Mission commander aboard Raiden and overall controller of airborne counter-assault response.
+
+**Captain Masaru Endo — Counter-Assault Team Leader**  
+Leads immediate offensive reaction if an attacker penetrates the outer security layer.
+
+**First Lieutenant Hiroshi Nagata — Heavy Weapons Specialist**  
+Provides anti-vehicle, anti-aircraft, and heavy suppressive capability.
+
+Raiden is the vehicle most likely to break formation deliberately in order to intercept an incoming attacker before it can reach Amaterasu.
+
+### Susanoo Four — KAGUTSUCHI
+**Japanese:** 迦具土  
+**Meaning:** Named for the deity of fire  
+**Formation Position:** Rear and lateral assault escort
+
+**First Lieutenant Kaede Minamoto — Assault Specialist**  
+Senior core operator aboard Kagutsuchi and leader of rapid offensive deployment.
+
+**Lieutenant Shunpei Watanabe — Breaching and Extraction Specialist**  
+Handles forced entry, emergency access, wreck extraction, and the opening of blocked escape routes.
+
+**Lieutenant Miyu Kanzaki — Tactical Assault Operator**  
+Provides urban-combat expertise and rear-security response, particularly within Night City.
+
+Kagutsuchi normally protects the rear quarter of Takeda’s formation and can land an assault element rapidly if the convoy is pursued or boxed in.
+
+---
+
+# FUJIN
+
+## Electronic Warfare and Counter-Surveillance AV
+
+**Japanese:** 風神
+**Meaning:** God of Wind
+**Role:** Electronic warfare, signal intelligence, cyber-defense
+
+Fujin travels near the center or rear of Takeda’s aerial formation.
+
+It carries Shirogane netrunners, electronic warfare specialists, signal analysts, and counter-surveillance personnel.
+
+Its primary task is to make the entire convoy difficult to track, target, hack, or ambush.
+
+Fujin continuously scans:
+
+* surrounding networks
+* civilian and military frequencies
+* drone traffic
+* targeting signals
+* unusual radar emissions
+* compromised infrastructure
+* suspicious navigation changes
+
+If somebody attempts to remotely compromise one of Takeda’s aircraft, Fujin is usually the first system to respond.
+
+Shinrei’s Counter-Intelligence personnel may also provide specialists for especially sensitive movements.
+
+## Standard Shirogane Assignment Aboard Fujin
+
+**Major Emi Takahara — Commander, Cybersecurity and Electronic Protection**  
+Overall commander of Fujin and electronic-defense authority for the entire convoy.
+
+**Captain Naoko Hoshino — Senior Protective Netrunner**  
+Monitors hostile daemons, compromised architecture, intrusion attempts, and direct threats to Takeda’s implants or vehicle systems.
+
+**First Lieutenant Jun Arakawa — Electronic Warfare Specialist**  
+Controls communications security, hostile-signal disruption, anti-surveillance measures, and drone neutralization.
+
+The three form the digital shield around Takeda’s convoy. Fujin is operated by a separate aviation and systems crew, allowing all three Shirogane specialists to concentrate on protection rather than flying the aircraft.
+
+---
+
+# HAKUSAN
+
+## Medical Recovery AV
+
+**Japanese:** 白山
+**Meaning:** “White Mountain”
+**Role:** Emergency medical recovery and extraction
+
+Hakusan is essentially an armored flying trauma center.
+
+Following Takeda’s assassination in 2070, Arasaka refused to allow his survival to depend on civilian medical infrastructure.
+
+Hakusan therefore carries personnel trained specifically in Takeda’s unusual Project STEEL physiology and cybernetic architecture.
+
+It contains:
+
+* combat surgery equipment
+* synthetic blood reserves
+* cyberware stabilization systems
+* neural monitoring
+* trauma support
+* emergency organ support
+* reinforced medical restraints designed for Takeda’s body
+* secure medical communications
+
+Major Dr. Shiori Kagawa deploys aboard Hakusan during full-strength movements. The aircraft also carries a larger cleared medical team outside the 24-member core Shirogane roster.
+
+If Amaterasu is disabled, Hakusan becomes the designated emergency recovery platform.
+
+## Standard Shirogane Assignment Aboard Hakusan
+
+**Major Dr. Shiori Kagawa — Chief Combat Surgeon, Shirogane Guard**  
+Medical commander and the person with primary authority over Takeda’s emergency stabilization.
+
+**Lieutenant Colonel Reina Shibata — Deputy Captain of the Shirogane Guard**  
+Maintains command redundancy away from Amaterasu. If Colonel Kurosawa or Amaterasu is cut off, Shibata can assume control of the surviving protective formation from Hakusan.
+
+**Lieutenant Akari Fujimoto — Close Protection Officer**  
+Provides armed protection for Kagawa, the medical team, and Takeda during any transfer from Amaterasu to Hakusan. Her counter-assassination background is especially valuable during a vulnerable casualty evacuation.
+
+Placing Shibata on a separate aircraft from Kurosawa is deliberate. Arasaka will not risk decapitating the entire Shirogane command structure with a single successful strike.
+
+---
+
+# GROUND TRANSPORT
+
+Takeda very rarely uses ordinary cars.
+
+He simply does not fit comfortably inside most of them.
+
+Even large luxury vehicles require extensive modification to accommodate his height, shoulder width, leg length, and mass.
+
+For this reason, the Shirogane Guard strongly prefers Takeda to use Amaterasu whenever practical.
+
+Night City also creates unique problems for ground convoys. Traffic, narrow routes, vulnerable intersections, crowds, and predictable road infrastructure create more assassination opportunities than aerial travel.
+
+Takeda nevertheless maintains several custom ground vehicles for ceremonial appearances, locations where AV access is restricted, and personal use.
+
+---
+
+# KAGEGURUMA
+
+## Takeda’s Armored Command Limousine
+
+**Japanese:** 影車
+**Meaning:** “Shadow Carriage”
+
+Kageguruma is an enormous custom-built Arasaka armored limousine constructed specifically around Takeda.
+
+Almost nothing from a standard executive vehicle platform remains.
+
+The roofline is raised, the wheelbase extended, the rear cabin widened, and the entire suspension system strengthened.
+
+Takeda sits in a specially reinforced rear command seat rather than an ordinary passenger bench.
+
+The vehicle includes:
+
+* extreme ballistic armor
+* explosive-resistant underbody
+* run-flat systems
+* armored drivetrain
+* independent oxygen supply
+* cyber-secure communications
+* electronic countermeasures
+* reinforced doors
+* emergency escape systems
+* drone detection
+* encrypted command link to the Shirogane Guard
+
+Kageguruma is used primarily when Takeda must arrive by road for political or ceremonial reasons.
+
+He considers it less secure than Amaterasu.
+
+The Shirogane Guard agrees.
+
+---
+
+# PERSONAL CARS
+
+Takeda enjoys cars, particularly because of his friendship with Kaito and their secret street-racing history.
+
+However, nearly every car he drives must be custom modified.
+
+Takeda cannot simply walk into a dealership and comfortably fit inside a normal sports car.
+
+Seats are removed or relocated.
+
+Steering systems are repositioned.
+
+Footwells are extended.
+
+Roof structures are raised or re-engineered.
+
+Suspension and chassis components are strengthened to accommodate his mass.
+
+Takeda owns several modified performance cars, but these are personal indulgences rather than official transport.
+
+The Shirogane Guard despises them.
+
+From their perspective, a street-racing car is essentially:
+
+**Supreme-Commander Takeda Arasaka inside an inadequately armored projectile with terrible tactical visibility.**
+
+Takeda continues to drive them anyway.
+
+This remains one of the recurring arguments between him and his protective detail.
+
+---
+
+# SHIROGANE GROUND CONVOY
+
+When Takeda travels by road, he never moves in a single vehicle.
+
+A standard formation usually includes:
+
+**Forward reconnaissance vehicle**
+
+**Lead Shirogane armored SUV**
+
+**Kageguruma or Takeda’s primary vehicle**
+
+**Two close escort vehicles**
+
+**Electronic warfare vehicle**
+
+**Rear assault vehicle**
+
+**Medical recovery vehicle**
+
+Additional vehicles may travel on parallel routes.
+
+The Shirogane Guard deliberately avoids obvious repeated formations.
+
+Vehicles rotate positions, duplicate convoys may be launched, and false routes can be used to complicate hostile surveillance.
+
+All escort vehicles are modified to maintain the performance of Takeda’s primary transport.
+
+The convoy moves as a single tactical organism.
+
+## Standard Ground Convoy: Core Shirogane Assignments
+
+The same 24 operators redistribute when Takeda is forced to move by road. Dedicated drivers, vehicle gunners, mechanics, and auxiliary security personnel are separate from the core roster.
+
+### Forward Reconnaissance Vehicle
+**Major Ayame Kisaragi** — Advance-security commander  
+**Captain Sora Hayashi** — Arrival-zone and diversion planning  
+**Lieutenant Sayaka Ito** — Reconnaissance, drones, and surveillance
+
+### Lead Shirogane Armored SUV
+**First Lieutenant Renji Nakamura** — Counter-sniper overwatch  
+**Lieutenant Taro Uesugi** — Route security and anti-ambush planning  
+**Lieutenant Koji Ishikawa** — Close-threat observation and receiving-party assessment
+
+### Kageguruma — Takeda’s Primary Ground Vehicle
+**Colonel Daichi Kurosawa** — Protective command  
+**Major Kenji Morimoto** — Close-protection command  
+**Captain Ryuji Sato** — Right-side protection  
+**Captain Natsumi Arai** — Left-side and concealed-threat detection  
+**First Lieutenant Takeshi Okada** — Rear protection  
+**First Lieutenant Yuna Matsuda** — Forward movement and emergency extraction
+
+### Close Escort Alpha
+**Major Haruto Nishikawa** — Counter-assault command  
+**Captain Masaru Endo** — Immediate reaction team leader  
+**First Lieutenant Hiroshi Nagata** — Heavy weapons and anti-vehicle response
+
+### Close Escort Beta
+**First Lieutenant Kaede Minamoto** — Assault lead  
+**Lieutenant Shunpei Watanabe** — Breaching and forced extraction  
+**Lieutenant Miyu Kanzaki** — Urban tactical response
+
+### Electronic Warfare Vehicle
+**Major Emi Takahara** — Electronic-protection commander  
+**Captain Naoko Hoshino** — Protective netrunning  
+**First Lieutenant Jun Arakawa** — Signals and electronic warfare
+
+### Rear Assault / Command-Reserve Vehicle
+**Lieutenant Colonel Reina Shibata** — Deputy protective commander and convoy command redundancy  
+**Lieutenant Akari Fujimoto** — Counter-assassination and emergency close protection
+
+The rear assault vehicle also carries auxiliary Arasaka combat personnel so Shibata and Akari are not expected to function as a two-person assault team.
+
+### Medical Recovery Vehicle
+**Major Dr. Shiori Kagawa** — Chief Combat Surgeon
+
+Kagawa travels with a dedicated medical team, surgical technicians, and security crew outside the 24 core operators.
+
+This distribution deliberately separates Kurosawa and Shibata, protects the medical capability, and keeps Takeda’s normal close-protection officers physically with him.
+
+---
+
+# TAKAMAGAHARA
+
+## Takeda Arasaka’s Personal Spaceplane
+
+**Japanese:** 高天原
+**Meaning:** “Plain of High Heaven”
+**Role:** Strategic long-range transport, orbital travel, international executive movement
+**Primary User:** Takeda Arasaka
+
+Takamagahara is Takeda’s personal Arasaka spaceplane.
+
+Like Amaterasu, it was designed around him rather than modified afterward.
+
+Its internal corridors, seating, sleeping quarters, command spaces, restraints, and emergency systems accommodate his enormous frame without forcing him into cramped positions.
+
+It functions simultaneously as:
+
+* executive aircraft
+* orbital transport
+* strategic command center
+* secure diplomatic platform
+* military evacuation craft
+
+Takeda can travel between major Arasaka territories, orbital facilities, and international locations while remaining connected to Arasaka command.
+
+---
+
+# Spaceplane Protection
+
+Takamagahara is heavily armored for a transport craft.
+
+Its defenses include:
+
+* reinforced thermal protection
+* hardened structural plating
+* redundant flight systems
+* encrypted navigation
+* anti-hijacking architecture
+* cyberwarfare isolation
+* electronic countermeasures
+* missile warning
+* decoy systems
+* defensive drones
+* sealed command compartments
+* independent atmosphere systems
+* emergency life support
+* hardened communications
+* armored fuel and power architecture
+
+The Supreme-Commander’s private compartment is buried deep inside the aircraft rather than against the outer hull.
+
+His seat and sleeping quarters are structurally reinforced for his weight and protected behind additional internal armor.
+
+The craft contains a dedicated Shirogane operations room and medical compartment.
+
+---
+
+# SPACEPLANE ESCORT DOCTRINE
+
+Takamagahara does not normally travel alone.
+
+Because a single spaceplane cannot contain Takeda, his complete security force, medical support, technical personnel, and all required equipment without compromising protection, the Shirogane Guard operates additional aircraft.
+
+A major Takeda deployment may include:
+
+**Takamagahara**
+Takeda’s command spaceplane.
+
+**Two Komainu-class escort spaceplanes**
+Carry Shirogane Guard personnel and defensive systems.
+
+**One Fujin-Kai electronic warfare aircraft**
+Handles signals intelligence and cyber-defense.
+
+**One Hakusan-Kai medical and recovery aircraft**
+Carries expanded trauma capabilities and additional medical staff.
+
+The formation may be supplemented by Arasaka military aerospace assets depending on destination and threat level.
+
+---
+
+# KOMAINU-CLASS ESCORT SPACEPLANE
+
+**Japanese:** 狛犬
+**Meaning:** Guardian lion-dogs associated with the protection of sacred places
+**Role:** Shirogane Guard aerospace escort
+
+The name is intentional.
+
+Komainu spaceplanes exist to guard Takeda’s aircraft.
+
+They carry additional Shirogane operators, equipment, drones, weapons, and replacement crews.
+
+They are capable of maintaining Takamagahara’s speed and flight profile so that Takeda’s security formation does not fragment during long-distance or orbital operations.
+
+One aircraft usually flies ahead or on a parallel flight path.
+
+Another maintains rear or lateral coverage.
+
+If Takamagahara must divert unexpectedly, both escorts divert immediately.
+
+## Standard Strategic Flight: Core Shirogane Assignments
+
+When Takeda travels internationally or into orbit, the 24 core operators are divided between Takamagahara and its four supporting aircraft. As with the AV fleet, pilots, flight engineers, gunners, medics, and auxiliary troops are additional personnel and are not counted among the 24 core Shirogane members.
+
+### TAKAMAGAHARA — Supreme-Commander’s Spaceplane
+**Colonel Daichi Kurosawa** — Overall protective commander  
+**Major Kenji Morimoto** — Close-protection commander  
+**Captain Ryuji Sato** — Immediate right-side protection  
+**Captain Natsumi Arai** — Immediate left-side and concealed-threat detection  
+**First Lieutenant Takeshi Okada** — Rear protection  
+**First Lieutenant Yuna Matsuda** — Forward movement and extraction  
+**Lieutenant Koji Ishikawa** — Internal passenger and personnel monitoring
+
+These seven remain with Takeda during the strategic flight and control his immediate security during boarding, orbital transfer, landing, and diplomatic arrival.
+
+### KOMAINU ONE — AGYŌ
+**Japanese:** 阿形  
+**Role:** Advance-security and reconnaissance escort
+
+**Lieutenant Colonel Reina Shibata** — Senior command redundancy and escort commander  
+**Major Ayame Kisaragi** — Advance-security commander  
+**Captain Sora Hayashi** — Arrival-zone planning  
+**First Lieutenant Renji Nakamura** — Counter-sniper overwatch  
+**Lieutenant Sayaka Ito** — Reconnaissance and surveillance
+
+Agyō often arrives first or operates on a parallel approach so the destination is being secured before Takamagahara commits to landing.
+
+### KOMAINU TWO — UNGYŌ
+**Japanese:** 吽形  
+**Role:** Heavy counter-assault escort
+
+**Major Haruto Nishikawa** — Counter-assault commander  
+**Captain Masaru Endo** — Counter-assault team leader  
+**First Lieutenant Hiroshi Nagata** — Heavy weapons specialist  
+**First Lieutenant Kaede Minamoto** — Assault specialist  
+**Lieutenant Shunpei Watanabe** — Breaching and extraction specialist
+
+Ungyō carries the Guard’s heaviest core combat concentration and is positioned to reinforce Takamagahara or seize an emergency landing site.
+
+### FUJIN-KAI — Electronic Warfare Spaceplane
+**Major Emi Takahara** — Cybersecurity commander  
+**Captain Naoko Hoshino** — Senior protective netrunner  
+**First Lieutenant Jun Arakawa** — Electronic warfare specialist
+
+Fujin-Kai performs the same digital-shield role in strategic and orbital travel that Fujin performs over Night City.
+
+### HAKUSAN-KAI — Medical and Recovery Spaceplane
+**Major Dr. Shiori Kagawa** — Chief Combat Surgeon  
+**Lieutenant Akari Fujimoto** — Counter-assassination and casualty-transfer protection  
+**Lieutenant Taro Uesugi** — Landing-route and ground-transfer security  
+**Lieutenant Miyu Kanzaki** — Tactical defense of the recovery aircraft and medical team
+
+Hakusan-Kai carries a full auxiliary medical staff. Akari, Taro, and Miyu ensure that a medical diversion does not leave Takeda’s recovery aircraft tactically exposed.
+
+The split is intentionally redundant. Kurosawa and Shibata fly on different aircraft; the cyber team remains consolidated around its specialized systems; the medical team is protected by combat-capable operators; and Takeda retains a complete close-protection nucleus aboard Takamagahara.
+
+---
+
+# Transport Philosophy
+
+Takeda’s vehicles embody the same philosophy as his personal security.
+
+He does not hide because he is weak.
+
+He protects himself because Arasaka cannot afford stupidity.
+
+His transport network is designed so that destroying one layer simply reveals another.
+
+An attacker must penetrate surveillance.
+
+Then electronic warfare.
+
+Then escort vehicles.
+
+Then defensive systems.
+
+Then armor.
+
+Then the Shirogane Guard.
+
+Then Adam Smasher, if present.
+
+And if all of that somehow fails, the attacker has finally reached Takeda Arasaka himself.
+
+At that point, the vehicle was probably the safer opponent.
+
+---
+
+# Typical Night City Movement
+
+When Takeda leaves the Arasaka Estate in Night City for official business, the most common formation is:
+
+Two Susanoo AVs depart first and clear the route.
+
+Fujin begins electronic and surveillance monitoring.
+
+Amaterasu departs with Takeda and his immediate protection officers.
+
+Two additional Susanoo AVs maintain rear and lateral security.
+
+Hakusan follows as the medical recovery platform.
+
+In a full-strength movement, all 24 core Shirogane operators are therefore accounted for across Amaterasu, Raikō, Hachiman, Raiden, Kagutsuchi, Fujin, and Hakusan. No single escort vehicle carries enough of the command structure or specialist capability for one successful strike to cripple the entire Guard.
+
+Other Arasaka aircraft may fly apparently unrelated routes nearby.
+
+To civilians below, it looks like a tightly controlled formation of black Arasaka AVs moving through the skyline.
+
+To anyone familiar with Arasaka military procedure, the message is unmistakable:
+
+**The Supreme-Commander is moving.**
+
+And somewhere in the middle of that formation sits Takeda Arasaka, too large for ordinary cars, too valuable for ordinary protection, and surrounded by enough armored machinery to make an assassination attempt resemble the opening minutes of a corporate war.
